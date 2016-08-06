@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/element/soft_keyboard/build/intermediates/res/merged/debug/layout-w600dp-v13/keyboard_setup_wizard_layout.xml",
+        "source": "/home/element/soft_keyboard/src/main/res/layout-w600dp/keyboard_setup_wizard_layout.xml"
+    },
+    {
+        "merged": "/home/element/soft_keyboard/build/intermediates/res/merged/debug/layout-w600dp-v13/main_fragment.xml",
+        "source": "/home/element/soft_keyboard/src/main/res/layout-w600dp/main_fragment.xml"
+    }
+]

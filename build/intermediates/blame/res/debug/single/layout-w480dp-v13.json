@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/home/element/soft_keyboard/build/intermediates/res/merged/debug/layout-w480dp-v13/abbreviation_dictionary_word_row_edit.xml",
+        "source": "/home/element/soft_keyboard/src/main/res/layout-w480dp/abbreviation_dictionary_word_row_edit.xml"
+    },
+    {
+        "merged": "/home/element/soft_keyboard/build/intermediates/res/merged/debug/layout-w480dp-v13/user_dictionary_word_row_add.xml",
+        "source": "/home/element/soft_keyboard/src/main/res/layout-w480dp/user_dictionary_word_row_add.xml"
+    },
+    {
+        "merged": "/home/element/soft_keyboard/build/intermediates/res/merged/debug/layout-w480dp-v13/user_dictionary_word_row.xml",
+        "source": "/home/element/soft_keyboard/src/main/res/layout-w480dp/user_dictionary_word_row.xml"
+    },
+    {
+        "merged": "/home/element/soft_keyboard/build/intermediates/res/merged/debug/layout-w480dp-v13/user_dictionary_word_row_edit.xml",
+        "source": "/home/element/soft_keyboard/src/main/res/layout-w480dp/user_dictionary_word_row_edit.xml"
+    }
+]

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="frankenrobot_dictionary_observer_implementation" translatable="false">com.anysoftkeyboard.dictionaries.DictionaryContentObserverAPI16</string>
+    <string name="settings_default_next_word_suggestion_aggressiveness">medium_aggressiveness</string>
+    <string name="settings_default_next_words_dictionary_type">words</string>
+</resources>

@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="physical_keyboard_change_notification_types">
+        <item>Laging ipalitaw ang icon</item>
+        <item>On physical keyboard change</item>
+        <item>Walang notipikasyon</item>
+    </string-array>
+    <string-array name="vibrate_on_key_press_types">
+        <item>Wala</item>
+        <item>Magaan</item>
+        <item>Katamtaman</item>
+        <item>Malakas</item>
+    </string-array>
+    <string msgid="4600421777120114993" name="abc_action_bar_home_description">"Mag-navigate patungo sa home"</string>
+    <string msgid="1397052879051804371" name="abc_action_bar_home_description_format">"%1$s, %2$s"</string>
+    <string msgid="6623331958280229229" name="abc_action_bar_home_subtitle_description_format">"%1$s, %2$s, %3$s"</string>
+    <string msgid="1594238315039666878" name="abc_action_bar_up_description">"Mag-navigate pataas"</string>
+    <string msgid="3588849162933574182" name="abc_action_menu_overflow_description">"Higit pang mga opsyon"</string>
+    <string msgid="4076576682505996667" name="abc_action_mode_done">"Tapos na"</string>
+    <string msgid="7468859129482906941" name="abc_activity_chooser_view_see_all">"Tingnan lahat"</string>
+    <string msgid="2031811694353399454" name="abc_activitychooserview_choose_application">"Pumili ng isang app"</string>
+    <string msgid="121134116657445385" name="abc_capital_off">"I-OFF"</string>
+    <string msgid="3405795526292276155" name="abc_capital_on">"I-ON"</string>
+    <string msgid="7723749260725869598" name="abc_search_hint">"Maghanap…"</string>
+    <string msgid="3691816814315814921" name="abc_searchview_description_clear">"I-clear ang query"</string>
+    <string msgid="2550479030709304392" name="abc_searchview_description_query">"Query sa paghahanap"</string>
+    <string msgid="8264924765203268293" name="abc_searchview_description_search">"Maghanap"</string>
+    <string msgid="8928215447528550784" name="abc_searchview_description_submit">"Isumite ang query"</string>
+    <string msgid="893419373245838918" name="abc_searchview_description_voice">"Paghahanap gamit ang boses"</string>
+    <string msgid="3421042268587513524" name="abc_shareactionprovider_share_with">"Ibahagi sa/kay"</string>
+    <string msgid="7165123711973476752" name="abc_shareactionprovider_share_with_application">"Ibahagi sa/kay %s"</string>
+    <string msgid="1603543279005712093" name="abc_toolbar_collapse_description">"I-collapse"</string>
+    <string name="change_lang_regular">ABC</string>
+    <string name="change_symbols_regular">123</string>
+    <string name="changelog">Changelog</string>
+    <string name="effects_group">Mga epekto</string>
+    <string name="eng_dictionary">English</string>
+    <string name="how_to_pointer_not_app">Ang AnySoftKeyboard ay hindi regular na application - ito ay isang palit sa
+        on-screen keyboard.
+    </string>
+    <string name="how_to_pointer_title">Magligayang padating sa AnySoftKeyboard</string>
+    <string name="ime_name">AnySoftKeyboard</string>
+    <string name="ime_settings">Mga setting ng keyboard</string>
+    <string name="label_done_key">Tapos</string>
+    <string name="label_next_key">Susunod</string>
+    <string name="label_send_key">Isend</string>
+    <string name="override_dictionary_default">Default</string>
+    <string name="search_market_for_addons">Humanap ng add-ons</string>
+    <string name="select_keyboard_popup_title">Pumili ng keyboard</string>
+    <string name="settings_long_press_timeout_faster">Mas mabilis</string>
+    <string name="settings_long_press_timeout_never">Hindi kailanman</string>
+    <string name="settings_multitap_timeout_fast">Mabilis</string>
+    <string name="settings_multitap_timeout_faster">Mas mabilis</string>
+    <string name="settings_multitap_timeout_normal">Katamtaman</string>
+    <string name="settings_multitap_timeout_slow">Mabagal</string>
+    <string name="settings_multitap_timeout_slower">Mas mabagal</string>
+    <string msgid="2869576371154716097" name="status_bar_notification_info_overflow">"999+"</string>
+    <string name="ui_group">Interface ng user</string>
+    <string name="use_custom_sound_volume">Ilagay ang custom na volume</string>
+    <string name="vibrate_on_key_press_title">Manginig kapag ipinduntin ang key</string>
+</resources>

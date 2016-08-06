@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <bool name="abc_action_bar_embed_tabs_pre_jb">true</bool>
+    <bool name="abc_config_allowActionMenuItemTextWithIcon">true</bool>
+    <bool name="settings_default_landscape_fullscreen">false</bool>
+    <bool name="settings_default_portrait_fullscreen">false</bool>
+    <dimen name="abc_config_prefDialogWidth">440dp</dimen>
+    <item name="abc_dialog_fixed_height_major" type="dimen">60%</item>
+    <item name="abc_dialog_fixed_height_minor" type="dimen">90%</item>
+    <item name="abc_dialog_fixed_width_major" type="dimen">60%</item>
+    <item name="abc_dialog_fixed_width_minor" type="dimen">90%</item>
+    <item name="abc_dialog_min_width_major" type="dimen">55%</item>
+    <item name="abc_dialog_min_width_minor" type="dimen">80%</item>
+    <dimen name="abc_search_view_text_min_width">192dip</dimen>
+    <dimen name="big_key_half_height">48dp</dimen>
+    <dimen name="big_key_height">62dp</dimen>
+    <dimen name="big_key_tall_height">72dp</dimen>
+    <dimen name="candidate_font_height">24sp</dimen>
+    <dimen name="candidate_strip_height">44sp</dimen>
+    <dimen name="default_key_half_height">38dip</dimen>
+    <dimen name="default_key_height">52dip</dimen>
+    <dimen name="default_key_horizontal_gap">1dp</dimen>
+    <dimen name="default_key_tall_height">62dip</dimen>
+    <dimen name="default_key_vertical_gap">3dip</dimen>
+    <dimen name="global_content_padding_bottom">8dp</dimen>
+    <dimen name="global_content_padding_side">24dp</dimen>
+    <dimen name="key_bottom_inset">4dp</dimen>
+    <dimen name="key_corner_radius">3dp</dimen>
+    <dimen name="key_hint_text_size">8sp</dimen>
+    <dimen name="key_label_text_size">17sp</dimen>
+    <dimen name="key_left_inset">4dp</dimen>
+    <dimen name="key_right_inset">4dp</dimen>
+    <dimen name="key_text_size">24sp</dimen>
+    <dimen name="key_top_inset">4dp</dimen>
+    <dimen name="keyboard_name_text_size">12sp</dimen>
+    <dimen name="lean_big_key_text_size">27sp</dimen>
+    <dimen name="lean_key_text_size">21sp</dimen>
+    <dimen name="max_item_extra_width">180dp</dimen>
+    <dimen name="plain_theme_key_horizontal_gap">3dp</dimen>
+    <dimen name="plain_theme_key_vertical_gap">4dp</dimen>
+    <dimen name="window_popup_corner_radius">6dp</dimen>
+    <integer name="abc_max_action_buttons">4</integer>
+    <integer name="condensing_precentage">80</integer>
+    <integer name="condensing_precentage_edge">65</integer>
+    <integer name="words_editor_columns_count">2</integer>
+    <style name="Base.Theme.AppCompat.DialogWhenLarge" parent="Base.Theme.AppCompat.Dialog.FixedSize"/>
+    <style name="Base.Theme.AppCompat.Light.DialogWhenLarge" parent="Base.Theme.AppCompat.Light.Dialog.FixedSize"/>
+</resources>

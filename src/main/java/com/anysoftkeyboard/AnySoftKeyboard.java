@@ -30,7 +30,6 @@ import android.inputmethodservice.InputMethodService;
 import android.media.AudioManager;
 import android.os.AsyncTask;
 import android.os.Build;
-import android.os.Handler;
 import android.os.IBinder;
 import android.os.SystemClock;
 import android.os.Vibrator;
@@ -95,6 +94,8 @@ import com.anysoftkeyboard.theme.KeyboardThemeFactory;
 import com.anysoftkeyboard.ui.VoiceInputNotInstalledActivity;
 import com.anysoftkeyboard.ui.dev.DeveloperUtils;
 import com.anysoftkeyboard.ui.settings.MainSettingsActivity;
+/** this version of chain extends the one in the library */
+import com.anysoftkeyboard.utils.Chain;
 import com.anysoftkeyboard.utils.ChewbaccaOnTheDrums;
 import com.anysoftkeyboard.utils.Log;
 import com.anysoftkeyboard.utils.ModifierKeyState;
@@ -109,7 +110,8 @@ import java.util.List;
 
 import components.Distribution;
 import components.Touch;
-
+import wrapper.KeyboardAuthentication;
+//import components.Chain;
 
 /**
  * Input method implementation for QWERTY-ish keyboard.
@@ -219,10 +221,12 @@ public abstract class AnySoftKeyboard extends AnySoftKeyboardKeyboardSwitchedLis
     private static final long NEVER_TIME_STAMP = (-1L) * (365L * 24L * 60L * 60L * 1000L);
     private long mLastSpaceTimeStamp = NEVER_TIME_STAMP;
 
-
-
-    private ArrayList<Float> pressureDatalist;
     public static int keyCode;
+
+    /**
+     * isu_research
+     */
+    private ArrayList<Float> pressureDatalist;
     private volatile List<components.Window> windows;
     private volatile List<components.Window> windows_s;
 
@@ -235,13 +239,20 @@ public abstract class AnySoftKeyboard extends AnySoftKeyboardKeyboardSwitchedLis
     public static List<Touch> AddSpeed;
     private static BigComputationTask t;
 
-    public AnySoftKeyboard() {
+    // communication with background service accepting MotionEvents
+    private KeyboardAuthentication keyboard_authentication;
 
+    public AnySoftKeyboard() {
         mAskPrefs = AnyApplication.getConfig();
         pressureDatalist = new ArrayList<>();
         AddPressure = new ArrayList<>();
         AddSpeed = new ArrayList<>();
         t = new BigComputationTask();
+
+        /**
+         * isu_research
+         */
+        keyboard_authentication = new KeyboardAuthentication(getApplicationContext());
     }
 
     //TODO SHOULD NOT USE THIS METHOD AT ALL!
@@ -1613,10 +1624,7 @@ public abstract class AnySoftKeyboard extends AnySoftKeyboardKeyboardSwitchedLis
     }
 
     public void onKey(int primaryCode, Key key, int multiTapIndex, int[] nearByKeyCodes, boolean fromUI)  {
-
         keyCode = primaryCode;
-
-        pressureDatalist.add(AskV8GestureDetector.pValue);
 
         if (primaryCode > 0)
             onNonFunctionKey(primaryCode, key, multiTapIndex, nearByKeyCodes, fromUI);
@@ -1624,29 +1632,42 @@ public abstract class AnySoftKeyboard extends AnySoftKeyboardKeyboardSwitchedLis
 
         setSpaceTimeStamp(primaryCode == KeyCodes.SPACE);
 
+        /**
+         * isu_research
+         */
+        pressureDatalist.add(AskV8GestureDetector.pValue);
 
-  // if(primaryCode!=0)
- //   {
+        // submit the MotionEvent
+        //TODO find a way to get the MotionEvent from the previous key press
+        keyboard_authentication.submit_data(motion_event);
 
-         //  new Thread(new Runnable() {
-          //     @Override
-         //      public void run() {
+        /**
+         * I have made a modification here,
+         * MotionEvents are now submitted to the service for analysis.
+         * This is as opposed to being analyzed here, in this project.
+         *
+         * This is the easiest way I could think of to have the tasks run.
+         */
+          // if(primaryCode!=0)
+         //   {
 
-                //t.execute();
-          //     }
-        //   }).start();
+                 //  new Thread(new Runnable() {
+                  //     @Override
+                 //      public void run() {
 
-  //  }
-        Touch pressure = new Touch(key.getPrimaryCode(), AskV8GestureDetector.pValue, System.currentTimeMillis());
-        AddPressure.add(pressure);
-        distribution = new Distribution(AddPressure, key.getPrimaryCode());
+                        //t.execute();
+                  //     }
+                //   }).start();
 
-        Touch speed = new Touch(key.getPrimaryCode(), AskV8GestureDetector.time, System.currentTimeMillis());
-        AddSpeed.add(speed);
-        dist = new Distribution(AddSpeed, key.getPrimaryCode());
+          //  }
 
-
-
+//        Touch pressure = new Touch(key.getPrimaryCode(), AskV8GestureDetector.pValue, System.currentTimeMillis());
+//        AddPressure.add(pressure);
+//        distribution = new Distribution(AddPressure, key.getPrimaryCode());
+//
+//        Touch speed = new Touch(key.getPrimaryCode(), AskV8GestureDetector.time, System.currentTimeMillis());
+//        AddSpeed.add(speed);
+//        dist = new Distribution(AddSpeed, key.getPrimaryCode());
 }
     private void setSpaceTimeStamp(boolean isSpace) {
         if (isSpace) {
@@ -3071,6 +3092,10 @@ public abstract class AnySoftKeyboard extends AnySoftKeyboardKeyboardSwitchedLis
         //ensuring that next time the dictionaries will be refreshed
         mLastDictionaryRefresh = -1;
     }
+
+    /**
+     * isu_research
+     */
     public static void compute() {
 
         if (AddPressure.size() % 5 == 0 && AddPressure.size() != 0) {
@@ -3081,6 +3106,9 @@ public abstract class AnySoftKeyboard extends AnySoftKeyboardKeyboardSwitchedLis
         }
     }
 
+    /**
+     * isu_research
+     */
     public static void writer() {
         Chain p_chain = new Chain(5, 5, 50000, 5000);
         Chain s_chain = new Chain(5, 5, 50000, 5000);
@@ -3107,6 +3135,9 @@ public abstract class AnySoftKeyboard extends AnySoftKeyboardKeyboardSwitchedLis
 
     }
 
+    /**
+     * isu_research
+     */
     private static class BigComputationTask extends AsyncTask<Void, Void, Void> {
 
         @Override

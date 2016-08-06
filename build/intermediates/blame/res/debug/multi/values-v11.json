@@ -1,0 +1,430 @@
+[
+    {
+        "outputFile": "/home/element/soft_keyboard/build/intermediates/res/merged/debug/values-v11/values-v11.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 72,
+                    "endOffset": 123
+                },
+                "from": {
+                    "file": "/home/element/soft_keyboard/src/main/res/values-v11/settings_defaults_dont_translate.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 347,
+                        "endColumn": 72,
+                        "endOffset": 415
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 128,
+                    "endColumn": 72,
+                    "endOffset": 196
+                },
+                "from": {
+                    "file": "/home/element/soft_keyboard/src/main/res/values-v11/settings_defaults_dont_translate.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 162,
+                        "endColumn": 72,
+                        "endOffset": 230
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 201,
+                    "endColumn": 67,
+                    "endOffset": 264
+                },
+                "from": {
+                    "file": "/home/element/soft_keyboard/src/main/res/values-v11/integers.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 67,
+                        "endOffset": 118
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 269,
+                    "endColumn": 134,
+                    "endOffset": 399
+                },
+                "from": {
+                    "file": "/home/element/soft_keyboard/src/main/res/values-v11/frankenrobot.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 134,
+                        "endOffset": 185
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 404,
+                    "endLine": 11,
+                    "endColumn": 12,
+                    "endOffset": 818
+                },
+                "from": {
+                    "file": "/home/element/soft_keyboard/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/values-v11/values-v11.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endLine": 7,
+                        "endColumn": 12,
+                        "endOffset": 469
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 823,
+                    "endLine": 17,
+                    "endColumn": 12,
+                    "endOffset": 1243
+                },
+                "from": {
+                    "file": "/home/element/soft_keyboard/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/values-v11/values-v11.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 474,
+                        "endLine": 13,
+                        "endColumn": 12,
+                        "endOffset": 894
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 1248,
+                    "endLine": 23,
+                    "endColumn": 12,
+                    "endOffset": 1671
+                },
+                "from": {
+                    "file": "/home/element/soft_keyboard/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/values-v11/values-v11.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 899,
+                        "endLine": 19,
+                        "endColumn": 12,
+                        "endOffset": 1322
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 24,
+                    "startColumn": 4,
+                    "startOffset": 1676,
+                    "endLine": 29,
+                    "endColumn": 12,
+                    "endOffset": 2097
+                },
+                "from": {
+                    "file": "/home/element/soft_keyboard/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/values-v11/values-v11.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 4,
+                        "startOffset": 1327,
+                        "endLine": 25,
+                        "endColumn": 12,
+                        "endOffset": 1748
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 30,
+                    "startColumn": 4,
+                    "startOffset": 2102,
+                    "endLine": 35,
+                    "endColumn": 12,
+                    "endOffset": 2524
+                },
+                "from": {
+                    "file": "/home/element/soft_keyboard/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/values-v11/values-v11.xml",
+                    "position": {
+                        "startLine": 26,
+                        "startColumn": 4,
+                        "startOffset": 1753,
+                        "endLine": 31,
+                        "endColumn": 12,
+                        "endOffset": 2175
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 36,
+                    "startColumn": 4,
+                    "startOffset": 2529,
+                    "endLine": 41,
+                    "endColumn": 12,
+                    "endOffset": 2949
+                },
+                "from": {
+                    "file": "/home/element/soft_keyboard/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/values-v11/values-v11.xml",
+                    "position": {
+                        "startLine": 32,
+                        "startColumn": 4,
+                        "startOffset": 2180,
+                        "endLine": 37,
+                        "endColumn": 12,
+                        "endOffset": 2600
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 42,
+                    "startColumn": 4,
+                    "startOffset": 2954,
+                    "endColumn": 88,
+                    "endOffset": 3038
+                },
+                "from": {
+                    "file": "/home/element/soft_keyboard/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/values-v11/values-v11.xml",
+                    "position": {
+                        "startLine": 38,
+                        "startColumn": 4,
+                        "startOffset": 2605,
+                        "endColumn": 88,
+                        "endOffset": 2689
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 43,
+                    "startColumn": 4,
+                    "startOffset": 3043,
+                    "endColumn": 100,
+                    "endOffset": 3139
+                },
+                "from": {
+                    "file": "/home/element/soft_keyboard/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/values-v11/values-v11.xml",
+                    "position": {
+                        "startLine": 39,
+                        "startColumn": 4,
+                        "startOffset": 2694,
+                        "endColumn": 100,
+                        "endOffset": 2790
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 44,
+                    "startColumn": 4,
+                    "startOffset": 3144,
+                    "endLine": 48,
+                    "endColumn": 12,
+                    "endOffset": 3547
+                },
+                "from": {
+                    "file": "/home/element/soft_keyboard/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/values-v11/values-v11.xml",
+                    "position": {
+                        "startLine": 40,
+                        "startColumn": 4,
+                        "startOffset": 2795,
+                        "endLine": 44,
+                        "endColumn": 12,
+                        "endOffset": 3198
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 49,
+                    "startColumn": 4,
+                    "startOffset": 3552,
+                    "endLine": 53,
+                    "endColumn": 12,
+                    "endOffset": 3967
+                },
+                "from": {
+                    "file": "/home/element/soft_keyboard/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/values-v11/values-v11.xml",
+                    "position": {
+                        "startLine": 45,
+                        "startColumn": 4,
+                        "startOffset": 3203,
+                        "endLine": 49,
+                        "endColumn": 12,
+                        "endOffset": 3618
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 54,
+                    "startColumn": 4,
+                    "startOffset": 3972,
+                    "endLine": 55,
+                    "endColumn": 12,
+                    "endOffset": 4074
+                },
+                "from": {
+                    "file": "/home/element/soft_keyboard/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/values-v11/values-v11.xml",
+                    "position": {
+                        "startLine": 50,
+                        "startColumn": 4,
+                        "startOffset": 3623,
+                        "endLine": 51,
+                        "endColumn": 12,
+                        "endOffset": 3725
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 56,
+                    "startColumn": 4,
+                    "startOffset": 4079,
+                    "endLine": 57,
+                    "endColumn": 12,
+                    "endOffset": 4203
+                },
+                "from": {
+                    "file": "/home/element/soft_keyboard/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/values-v11/values-v11.xml",
+                    "position": {
+                        "startLine": 52,
+                        "startColumn": 4,
+                        "startOffset": 3730,
+                        "endLine": 53,
+                        "endColumn": 12,
+                        "endOffset": 3854
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 58,
+                    "startColumn": 4,
+                    "startOffset": 4208,
+                    "endColumn": 70,
+                    "endOffset": 4274
+                },
+                "from": {
+                    "file": "/home/element/soft_keyboard/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/values-v11/values-v11.xml",
+                    "position": {
+                        "startLine": 54,
+                        "startColumn": 4,
+                        "startOffset": 3859,
+                        "endColumn": 70,
+                        "endOffset": 3925
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 59,
+                    "startColumn": 4,
+                    "startOffset": 4279,
+                    "endColumn": 82,
+                    "endOffset": 4357
+                },
+                "from": {
+                    "file": "/home/element/soft_keyboard/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/values-v11/values-v11.xml",
+                    "position": {
+                        "startLine": 55,
+                        "startColumn": 4,
+                        "startOffset": 3930,
+                        "endColumn": 82,
+                        "endOffset": 4008
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 60,
+                    "startColumn": 4,
+                    "startOffset": 4362,
+                    "endLine": 110,
+                    "endColumn": 12,
+                    "endOffset": 8065
+                },
+                "from": {
+                    "file": "/home/element/soft_keyboard/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/values-v11/values-v11.xml",
+                    "position": {
+                        "startLine": 56,
+                        "startColumn": 4,
+                        "startOffset": 4013,
+                        "endLine": 106,
+                        "endColumn": 12,
+                        "endOffset": 7716
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 111,
+                    "startColumn": 4,
+                    "startOffset": 8070,
+                    "endLine": 162,
+                    "endColumn": 12,
+                    "endOffset": 11913
+                },
+                "from": {
+                    "file": "/home/element/soft_keyboard/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/values-v11/values-v11.xml",
+                    "position": {
+                        "startLine": 107,
+                        "startColumn": 4,
+                        "startOffset": 7721,
+                        "endLine": 158,
+                        "endColumn": 12,
+                        "endOffset": 11564
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 163,
+                    "startColumn": 4,
+                    "startOffset": 11918,
+                    "endColumn": 90,
+                    "endOffset": 12004
+                },
+                "from": {
+                    "file": "/home/element/soft_keyboard/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/values-v11/values-v11.xml",
+                    "position": {
+                        "startLine": 159,
+                        "startColumn": 4,
+                        "startOffset": 11569,
+                        "endColumn": 90,
+                        "endOffset": 11655
+                    }
+                }
+            }
+        ]
+    }
+]

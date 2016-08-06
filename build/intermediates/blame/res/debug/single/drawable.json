@@ -1,0 +1,598 @@
+[
+    {
+        "merged": "/home/element/soft_keyboard/build/intermediates/res/merged/debug/drawable/blacktheme_key_function_checked.xml",
+        "source": "/home/element/soft_keyboard/src/main/res/drawable/blacktheme_key_function_checked.xml"
+    },
+    {
+        "merged": "/home/element/soft_keyboard/build/intermediates/res/merged/debug/drawable/dark_background_popup.xml",
+        "source": "/home/element/soft_keyboard/src/main/res/drawable/dark_background_popup.xml"
+    },
+    {
+        "merged": "/home/element/soft_keyboard/build/intermediates/res/merged/debug/drawable/indicator_empty.xml",
+        "source": "/home/element/soft_keyboard/src/main/res/drawable/indicator_empty.xml"
+    },
+    {
+        "merged": "/home/element/soft_keyboard/build/intermediates/res/merged/debug/drawable/transparent_click_feedback_background.xml",
+        "source": "/home/element/soft_keyboard/src/main/res/drawable/transparent_click_feedback_background.xml"
+    },
+    {
+        "merged": "/home/element/soft_keyboard/build/intermediates/res/merged/debug/drawable/english_qwerty_with_symbols_screenshot.png",
+        "source": "/home/element/soft_keyboard/src/main/res/drawable/english_qwerty_with_symbols_screenshot.png"
+    },
+    {
+        "merged": "/home/element/soft_keyboard/build/intermediates/res/merged/debug/drawable/blacktheme_key_function_pressed.xml",
+        "source": "/home/element/soft_keyboard/src/main/res/drawable/blacktheme_key_function_pressed.xml"
+    },
+    {
+        "merged": "/home/element/soft_keyboard/build/intermediates/res/merged/debug/drawable/dark_btn_key_function.xml",
+        "source": "/home/element/soft_keyboard/src/main/res/drawable/dark_btn_key_function.xml"
+    },
+    {
+        "merged": "/home/element/soft_keyboard/build/intermediates/res/merged/debug/drawable/dark_background.xml",
+        "source": "/home/element/soft_keyboard/src/main/res/drawable/dark_background.xml"
+    },
+    {
+        "merged": "/home/element/soft_keyboard/build/intermediates/res/merged/debug/drawable/light_btn_key_function.xml",
+        "source": "/home/element/soft_keyboard/src/main/res/drawable/light_btn_key_function.xml"
+    },
+    {
+        "merged": "/home/element/soft_keyboard/build/intermediates/res/merged/debug/drawable/lean_light_popup_btn_selected.xml",
+        "source": "/home/element/soft_keyboard/src/main/res/drawable/lean_light_popup_btn_selected.xml"
+    },
+    {
+        "merged": "/home/element/soft_keyboard/build/intermediates/res/merged/debug/drawable/light_btn_key_preview_background.xml",
+        "source": "/home/element/soft_keyboard/src/main/res/drawable/light_btn_key_preview_background.xml"
+    },
+    {
+        "merged": "/home/element/soft_keyboard/build/intermediates/res/merged/debug/drawable/ic_launcher_settings.png",
+        "source": "/home/element/soft_keyboard/src/main/res/drawable/ic_launcher_settings.png"
+    },
+    {
+        "merged": "/home/element/soft_keyboard/build/intermediates/res/merged/debug/drawable/dark_key_control_set.xml",
+        "source": "/home/element/soft_keyboard/src/main/res/drawable/dark_key_control_set.xml"
+    },
+    {
+        "merged": "/home/element/soft_keyboard/build/intermediates/res/merged/debug/drawable/light_btn_key.xml",
+        "source": "/home/element/soft_keyboard/src/main/res/drawable/light_btn_key.xml"
+    },
+    {
+        "merged": "/home/element/soft_keyboard/build/intermediates/res/merged/debug/drawable/abc_dialog_material_background_light.xml",
+        "source": "/home/element/soft_keyboard/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/drawable/abc_dialog_material_background_light.xml"
+    },
+    {
+        "merged": "/home/element/soft_keyboard/build/intermediates/res/merged/debug/drawable/abc_btn_colored_material.xml",
+        "source": "/home/element/soft_keyboard/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/drawable/abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "/home/element/soft_keyboard/build/intermediates/res/merged/debug/drawable/sym_keyboard_shift.png",
+        "source": "/home/element/soft_keyboard/src/main/res/drawable/sym_keyboard_shift.png"
+    },
+    {
+        "merged": "/home/element/soft_keyboard/build/intermediates/res/merged/debug/drawable/abc_dialog_material_background_dark.xml",
+        "source": "/home/element/soft_keyboard/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/drawable/abc_dialog_material_background_dark.xml"
+    },
+    {
+        "merged": "/home/element/soft_keyboard/build/intermediates/res/merged/debug/drawable/blacktheme_key_action_pressed.xml",
+        "source": "/home/element/soft_keyboard/src/main/res/drawable/blacktheme_key_action_pressed.xml"
+    },
+    {
+        "merged": "/home/element/soft_keyboard/build/intermediates/res/merged/debug/drawable/sym_keyboard_tab_light.png",
+        "source": "/home/element/soft_keyboard/src/main/res/drawable/sym_keyboard_tab_light.png"
+    },
+    {
+        "merged": "/home/element/soft_keyboard/build/intermediates/res/merged/debug/drawable/sym_keyboard_notification_icon.png",
+        "source": "/home/element/soft_keyboard/src/main/res/drawable/sym_keyboard_notification_icon.png"
+    },
+    {
+        "merged": "/home/element/soft_keyboard/build/intermediates/res/merged/debug/drawable/abc_list_selector_holo_dark.xml",
+        "source": "/home/element/soft_keyboard/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/drawable/abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "/home/element/soft_keyboard/build/intermediates/res/merged/debug/drawable/lean_dark_function_btn_pressed.9.png",
+        "source": "/home/element/soft_keyboard/src/main/res/drawable/lean_dark_function_btn_pressed.9.png"
+    },
+    {
+        "merged": "/home/element/soft_keyboard/build/intermediates/res/merged/debug/drawable/close_popup_window.png",
+        "source": "/home/element/soft_keyboard/src/main/res/drawable/close_popup_window.png"
+    },
+    {
+        "merged": "/home/element/soft_keyboard/build/intermediates/res/merged/debug/drawable/lean_dark_btn.xml",
+        "source": "/home/element/soft_keyboard/src/main/res/drawable/lean_dark_btn.xml"
+    },
+    {
+        "merged": "/home/element/soft_keyboard/build/intermediates/res/merged/debug/drawable/sym_keyboard_num6.png",
+        "source": "/home/element/soft_keyboard/src/main/res/drawable/sym_keyboard_num6.png"
+    },
+    {
+        "merged": "/home/element/soft_keyboard/build/intermediates/res/merged/debug/drawable/abc_btn_default_mtrl_shape.xml",
+        "source": "/home/element/soft_keyboard/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/drawable/abc_btn_default_mtrl_shape.xml"
+    },
+    {
+        "merged": "/home/element/soft_keyboard/build/intermediates/res/merged/debug/drawable/abc_ratingbar_small_material.xml",
+        "source": "/home/element/soft_keyboard/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/drawable/abc_ratingbar_small_material.xml"
+    },
+    {
+        "merged": "/home/element/soft_keyboard/build/intermediates/res/merged/debug/drawable/light_btn_key_normal_pressed.xml",
+        "source": "/home/element/soft_keyboard/src/main/res/drawable/light_btn_key_normal_pressed.xml"
+    },
+    {
+        "merged": "/home/element/soft_keyboard/build/intermediates/res/merged/debug/drawable/lean_dark_btn_action.9.png",
+        "source": "/home/element/soft_keyboard/src/main/res/drawable/lean_dark_btn_action.9.png"
+    },
+    {
+        "merged": "/home/element/soft_keyboard/build/intermediates/res/merged/debug/drawable/sym_keyboard_num7.png",
+        "source": "/home/element/soft_keyboard/src/main/res/drawable/sym_keyboard_num7.png"
+    },
+    {
+        "merged": "/home/element/soft_keyboard/build/intermediates/res/merged/debug/drawable/lean_light_popup_btn_normal.xml",
+        "source": "/home/element/soft_keyboard/src/main/res/drawable/lean_light_popup_btn_normal.xml"
+    },
+    {
+        "merged": "/home/element/soft_keyboard/build/intermediates/res/merged/debug/drawable/light_btn_key_normal.xml",
+        "source": "/home/element/soft_keyboard/src/main/res/drawable/light_btn_key_normal.xml"
+    },
+    {
+        "merged": "/home/element/soft_keyboard/build/intermediates/res/merged/debug/drawable/light_background_popup.xml",
+        "source": "/home/element/soft_keyboard/src/main/res/drawable/light_background_popup.xml"
+    },
+    {
+        "merged": "/home/element/soft_keyboard/build/intermediates/res/merged/debug/drawable/lean_dark_normal_btn_pressed.9.png",
+        "source": "/home/element/soft_keyboard/src/main/res/drawable/lean_dark_normal_btn_pressed.9.png"
+    },
+    {
+        "merged": "/home/element/soft_keyboard/build/intermediates/res/merged/debug/drawable/lean_light_btn.xml",
+        "source": "/home/element/soft_keyboard/src/main/res/drawable/lean_light_btn.xml"
+    },
+    {
+        "merged": "/home/element/soft_keyboard/build/intermediates/res/merged/debug/drawable/lean_dark_btn_normal.9.png",
+        "source": "/home/element/soft_keyboard/src/main/res/drawable/lean_dark_btn_normal.9.png"
+    },
+    {
+        "merged": "/home/element/soft_keyboard/build/intermediates/res/merged/debug/drawable/abc_item_background_holo_dark.xml",
+        "source": "/home/element/soft_keyboard/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/drawable/abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "/home/element/soft_keyboard/build/intermediates/res/merged/debug/drawable/blacktheme_popup_background.xml",
+        "source": "/home/element/soft_keyboard/src/main/res/drawable/blacktheme_popup_background.xml"
+    },
+    {
+        "merged": "/home/element/soft_keyboard/build/intermediates/res/merged/debug/drawable/sym_keyboard_num9.png",
+        "source": "/home/element/soft_keyboard/src/main/res/drawable/sym_keyboard_num9.png"
+    },
+    {
+        "merged": "/home/element/soft_keyboard/build/intermediates/res/merged/debug/drawable/abc_edit_text_material.xml",
+        "source": "/home/element/soft_keyboard/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/drawable/abc_edit_text_material.xml"
+    },
+    {
+        "merged": "/home/element/soft_keyboard/build/intermediates/res/merged/debug/drawable/light_key_action_set.xml",
+        "source": "/home/element/soft_keyboard/src/main/res/drawable/light_key_action_set.xml"
+    },
+    {
+        "merged": "/home/element/soft_keyboard/build/intermediates/res/merged/debug/drawable/lean_dark_popup_btn_selected.xml",
+        "source": "/home/element/soft_keyboard/src/main/res/drawable/lean_dark_popup_btn_selected.xml"
+    },
+    {
+        "merged": "/home/element/soft_keyboard/build/intermediates/res/merged/debug/drawable/blacktheme_key.xml",
+        "source": "/home/element/soft_keyboard/src/main/res/drawable/blacktheme_key.xml"
+    },
+    {
+        "merged": "/home/element/soft_keyboard/build/intermediates/res/merged/debug/drawable/sym_keyboard_tab.png",
+        "source": "/home/element/soft_keyboard/src/main/res/drawable/sym_keyboard_tab.png"
+    },
+    {
+        "merged": "/home/element/soft_keyboard/build/intermediates/res/merged/debug/drawable/abc_seekbar_thumb_material.xml",
+        "source": "/home/element/soft_keyboard/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/drawable/abc_seekbar_thumb_material.xml"
+    },
+    {
+        "merged": "/home/element/soft_keyboard/build/intermediates/res/merged/debug/drawable/english_qwerty_screenshot.jpg",
+        "source": "/home/element/soft_keyboard/src/main/res/drawable/english_qwerty_screenshot.jpg"
+    },
+    {
+        "merged": "/home/element/soft_keyboard/build/intermediates/res/merged/debug/drawable/blacktheme_preview_background.xml",
+        "source": "/home/element/soft_keyboard/src/main/res/drawable/blacktheme_preview_background.xml"
+    },
+    {
+        "merged": "/home/element/soft_keyboard/build/intermediates/res/merged/debug/drawable/drop_shadow_for_top.xml",
+        "source": "/home/element/soft_keyboard/src/main/res/drawable/drop_shadow_for_top.xml"
+    },
+    {
+        "merged": "/home/element/soft_keyboard/build/intermediates/res/merged/debug/drawable/abc_seekbar_track_material.xml",
+        "source": "/home/element/soft_keyboard/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/drawable/abc_seekbar_track_material.xml"
+    },
+    {
+        "merged": "/home/element/soft_keyboard/build/intermediates/res/merged/debug/drawable/ic_not_configured_animation.xml",
+        "source": "/home/element/soft_keyboard/src/main/res/drawable/ic_not_configured_animation.xml"
+    },
+    {
+        "merged": "/home/element/soft_keyboard/build/intermediates/res/merged/debug/drawable/dark_key_shift_set.xml",
+        "source": "/home/element/soft_keyboard/src/main/res/drawable/dark_key_shift_set.xml"
+    },
+    {
+        "merged": "/home/element/soft_keyboard/build/intermediates/res/merged/debug/drawable/lean_light_keyboard_background.xml",
+        "source": "/home/element/soft_keyboard/src/main/res/drawable/lean_light_keyboard_background.xml"
+    },
+    {
+        "merged": "/home/element/soft_keyboard/build/intermediates/res/merged/debug/drawable/list_selector_background_pressed.9.png",
+        "source": "/home/element/soft_keyboard/src/main/res/drawable/list_selector_background_pressed.9.png"
+    },
+    {
+        "merged": "/home/element/soft_keyboard/build/intermediates/res/merged/debug/drawable/dark_btn_key_preview_background.xml",
+        "source": "/home/element/soft_keyboard/src/main/res/drawable/dark_btn_key_preview_background.xml"
+    },
+    {
+        "merged": "/home/element/soft_keyboard/build/intermediates/res/merged/debug/drawable/abc_ratingbar_indicator_material.xml",
+        "source": "/home/element/soft_keyboard/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/drawable/abc_ratingbar_indicator_material.xml"
+    },
+    {
+        "merged": "/home/element/soft_keyboard/build/intermediates/res/merged/debug/drawable/notification_icon_beta_version.png",
+        "source": "/home/element/soft_keyboard/src/main/res/drawable/notification_icon_beta_version.png"
+    },
+    {
+        "merged": "/home/element/soft_keyboard/build/intermediates/res/merged/debug/drawable/sym_keyboard_num5.png",
+        "source": "/home/element/soft_keyboard/src/main/res/drawable/sym_keyboard_num5.png"
+    },
+    {
+        "merged": "/home/element/soft_keyboard/build/intermediates/res/merged/debug/drawable/lean_light_theme_screenshot.jpg",
+        "source": "/home/element/soft_keyboard/src/main/res/drawable/lean_light_theme_screenshot.jpg"
+    },
+    {
+        "merged": "/home/element/soft_keyboard/build/intermediates/res/merged/debug/drawable/light_background_tiled.xml",
+        "source": "/home/element/soft_keyboard/src/main/res/drawable/light_background_tiled.xml"
+    },
+    {
+        "merged": "/home/element/soft_keyboard/build/intermediates/res/merged/debug/drawable/blacktheme_background.xml",
+        "source": "/home/element/soft_keyboard/src/main/res/drawable/blacktheme_background.xml"
+    },
+    {
+        "merged": "/home/element/soft_keyboard/build/intermediates/res/merged/debug/drawable/menu_item_extra_background.xml",
+        "source": "/home/element/soft_keyboard/src/main/res/drawable/menu_item_extra_background.xml"
+    },
+    {
+        "merged": "/home/element/soft_keyboard/build/intermediates/res/merged/debug/drawable/light_background_suggestions.xml",
+        "source": "/home/element/soft_keyboard/src/main/res/drawable/light_background_suggestions.xml"
+    },
+    {
+        "merged": "/home/element/soft_keyboard/build/intermediates/res/merged/debug/drawable/card_background.xml",
+        "source": "/home/element/soft_keyboard/src/main/res/drawable/card_background.xml"
+    },
+    {
+        "merged": "/home/element/soft_keyboard/build/intermediates/res/merged/debug/drawable/lean_dark_theme_screenshot.jpg",
+        "source": "/home/element/soft_keyboard/src/main/res/drawable/lean_dark_theme_screenshot.jpg"
+    },
+    {
+        "merged": "/home/element/soft_keyboard/build/intermediates/res/merged/debug/drawable/lean_light_btn_normal.9.png",
+        "source": "/home/element/soft_keyboard/src/main/res/drawable/lean_light_btn_normal.9.png"
+    },
+    {
+        "merged": "/home/element/soft_keyboard/build/intermediates/res/merged/debug/drawable/indicator_full.xml",
+        "source": "/home/element/soft_keyboard/src/main/res/drawable/indicator_full.xml"
+    },
+    {
+        "merged": "/home/element/soft_keyboard/build/intermediates/res/merged/debug/drawable/sym_keyboard_shift_locked_light.png",
+        "source": "/home/element/soft_keyboard/src/main/res/drawable/sym_keyboard_shift_locked_light.png"
+    },
+    {
+        "merged": "/home/element/soft_keyboard/build/intermediates/res/merged/debug/drawable/dark_btn_key_normal.xml",
+        "source": "/home/element/soft_keyboard/src/main/res/drawable/dark_btn_key_normal.xml"
+    },
+    {
+        "merged": "/home/element/soft_keyboard/build/intermediates/res/merged/debug/drawable/sym_keyboard_shift_locked.png",
+        "source": "/home/element/soft_keyboard/src/main/res/drawable/sym_keyboard_shift_locked.png"
+    },
+    {
+        "merged": "/home/element/soft_keyboard/build/intermediates/res/merged/debug/drawable/dark_lean_large_screenshot.jpg",
+        "source": "/home/element/soft_keyboard/src/main/res/drawable/dark_lean_large_screenshot.jpg"
+    },
+    {
+        "merged": "/home/element/soft_keyboard/build/intermediates/res/merged/debug/drawable/sym_keyboard_ctrl_on.png",
+        "source": "/home/element/soft_keyboard/src/main/res/drawable/sym_keyboard_ctrl_on.png"
+    },
+    {
+        "merged": "/home/element/soft_keyboard/build/intermediates/res/merged/debug/drawable/dark_btn_key_action.xml",
+        "source": "/home/element/soft_keyboard/src/main/res/drawable/dark_btn_key_action.xml"
+    },
+    {
+        "merged": "/home/element/soft_keyboard/build/intermediates/res/merged/debug/drawable/abc_list_selector_background_transition_holo_light.xml",
+        "source": "/home/element/soft_keyboard/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/drawable/abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "/home/element/soft_keyboard/build/intermediates/res/merged/debug/drawable/abc_cab_background_top_material.xml",
+        "source": "/home/element/soft_keyboard/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/drawable/abc_cab_background_top_material.xml"
+    },
+    {
+        "merged": "/home/element/soft_keyboard/build/intermediates/res/merged/debug/drawable/lean_light_popup_keyboard_background.xml",
+        "source": "/home/element/soft_keyboard/src/main/res/drawable/lean_light_popup_keyboard_background.xml"
+    },
+    {
+        "merged": "/home/element/soft_keyboard/build/intermediates/res/merged/debug/drawable/abc_btn_radio_material.xml",
+        "source": "/home/element/soft_keyboard/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/drawable/abc_btn_radio_material.xml"
+    },
+    {
+        "merged": "/home/element/soft_keyboard/build/intermediates/res/merged/debug/drawable/lean_dark_popup_keyboard_background.9.png",
+        "source": "/home/element/soft_keyboard/src/main/res/drawable/lean_dark_popup_keyboard_background.9.png"
+    },
+    {
+        "merged": "/home/element/soft_keyboard/build/intermediates/res/merged/debug/drawable/lean_light_normal_btn_pressed.xml",
+        "source": "/home/element/soft_keyboard/src/main/res/drawable/lean_light_normal_btn_pressed.xml"
+    },
+    {
+        "merged": "/home/element/soft_keyboard/build/intermediates/res/merged/debug/drawable/sym_keyboard_num8.png",
+        "source": "/home/element/soft_keyboard/src/main/res/drawable/sym_keyboard_num8.png"
+    },
+    {
+        "merged": "/home/element/soft_keyboard/build/intermediates/res/merged/debug/drawable/ic_stat_en.png",
+        "source": "/home/element/soft_keyboard/src/main/res/drawable/ic_stat_en.png"
+    },
+    {
+        "merged": "/home/element/soft_keyboard/build/intermediates/res/merged/debug/drawable/sym_keyboard_num3.png",
+        "source": "/home/element/soft_keyboard/src/main/res/drawable/sym_keyboard_num3.png"
+    },
+    {
+        "merged": "/home/element/soft_keyboard/build/intermediates/res/merged/debug/drawable/window_popup_background.xml",
+        "source": "/home/element/soft_keyboard/src/main/res/drawable/window_popup_background.xml"
+    },
+    {
+        "merged": "/home/element/soft_keyboard/build/intermediates/res/merged/debug/drawable/english_16keys_screenshot.png",
+        "source": "/home/element/soft_keyboard/src/main/res/drawable/english_16keys_screenshot.png"
+    },
+    {
+        "merged": "/home/element/soft_keyboard/build/intermediates/res/merged/debug/drawable/abc_btn_check_material.xml",
+        "source": "/home/element/soft_keyboard/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/drawable/abc_btn_check_material.xml"
+    },
+    {
+        "merged": "/home/element/soft_keyboard/build/intermediates/res/merged/debug/drawable/light_btn_key_function_pressed.xml",
+        "source": "/home/element/soft_keyboard/src/main/res/drawable/light_btn_key_function_pressed.xml"
+    },
+    {
+        "merged": "/home/element/soft_keyboard/build/intermediates/res/merged/debug/drawable/lean_light_candidates_background.xml",
+        "source": "/home/element/soft_keyboard/src/main/res/drawable/lean_light_candidates_background.xml"
+    },
+    {
+        "merged": "/home/element/soft_keyboard/build/intermediates/res/merged/debug/drawable/abc_list_selector_holo_light.xml",
+        "source": "/home/element/soft_keyboard/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/drawable/abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "/home/element/soft_keyboard/build/intermediates/res/merged/debug/drawable/light_btn_key_action_pressed.xml",
+        "source": "/home/element/soft_keyboard/src/main/res/drawable/light_btn_key_action_pressed.xml"
+    },
+    {
+        "merged": "/home/element/soft_keyboard/build/intermediates/res/merged/debug/drawable/sym_keyboard_num4.png",
+        "source": "/home/element/soft_keyboard/src/main/res/drawable/sym_keyboard_num4.png"
+    },
+    {
+        "merged": "/home/element/soft_keyboard/build/intermediates/res/merged/debug/drawable/dark_btn_key_normal_pressed.xml",
+        "source": "/home/element/soft_keyboard/src/main/res/drawable/dark_btn_key_normal_pressed.xml"
+    },
+    {
+        "merged": "/home/element/soft_keyboard/build/intermediates/res/merged/debug/drawable/sym_keyboard_ctrl.png",
+        "source": "/home/element/soft_keyboard/src/main/res/drawable/sym_keyboard_ctrl.png"
+    },
+    {
+        "merged": "/home/element/soft_keyboard/build/intermediates/res/merged/debug/drawable/selected_tab.xml",
+        "source": "/home/element/soft_keyboard/src/main/res/drawable/selected_tab.xml"
+    },
+    {
+        "merged": "/home/element/soft_keyboard/build/intermediates/res/merged/debug/drawable/blacktheme_screenshot.jpg",
+        "source": "/home/element/soft_keyboard/src/main/res/drawable/blacktheme_screenshot.jpg"
+    },
+    {
+        "merged": "/home/element/soft_keyboard/build/intermediates/res/merged/debug/drawable/sym_keyboard_space.9.png",
+        "source": "/home/element/soft_keyboard/src/main/res/drawable/sym_keyboard_space.9.png"
+    },
+    {
+        "merged": "/home/element/soft_keyboard/build/intermediates/res/merged/debug/drawable/light_btn_key_action.xml",
+        "source": "/home/element/soft_keyboard/src/main/res/drawable/light_btn_key_action.xml"
+    },
+    {
+        "merged": "/home/element/soft_keyboard/build/intermediates/res/merged/debug/drawable/card_background_normal.xml",
+        "source": "/home/element/soft_keyboard/src/main/res/drawable/card_background_normal.xml"
+    },
+    {
+        "merged": "/home/element/soft_keyboard/build/intermediates/res/merged/debug/drawable/dark_btn_key.xml",
+        "source": "/home/element/soft_keyboard/src/main/res/drawable/dark_btn_key.xml"
+    },
+    {
+        "merged": "/home/element/soft_keyboard/build/intermediates/res/merged/debug/drawable/dark_key_action_set.xml",
+        "source": "/home/element/soft_keyboard/src/main/res/drawable/dark_key_action_set.xml"
+    },
+    {
+        "merged": "/home/element/soft_keyboard/build/intermediates/res/merged/debug/drawable/dark_btn_key_function_pressed.xml",
+        "source": "/home/element/soft_keyboard/src/main/res/drawable/dark_btn_key_function_pressed.xml"
+    },
+    {
+        "merged": "/home/element/soft_keyboard/build/intermediates/res/merged/debug/drawable/light_theme_screenshot.jpg",
+        "source": "/home/element/soft_keyboard/src/main/res/drawable/light_theme_screenshot.jpg"
+    },
+    {
+        "merged": "/home/element/soft_keyboard/build/intermediates/res/merged/debug/drawable/abc_item_background_holo_light.xml",
+        "source": "/home/element/soft_keyboard/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/drawable/abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "/home/element/soft_keyboard/build/intermediates/res/merged/debug/drawable/close_suggestions_strip_icon.png",
+        "source": "/home/element/soft_keyboard/src/main/res/drawable/close_suggestions_strip_icon.png"
+    },
+    {
+        "merged": "/home/element/soft_keyboard/build/intermediates/res/merged/debug/drawable/abc_btn_borderless_material.xml",
+        "source": "/home/element/soft_keyboard/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/drawable/abc_btn_borderless_material.xml"
+    },
+    {
+        "merged": "/home/element/soft_keyboard/build/intermediates/res/merged/debug/drawable/light_key_control_set.xml",
+        "source": "/home/element/soft_keyboard/src/main/res/drawable/light_key_control_set.xml"
+    },
+    {
+        "merged": "/home/element/soft_keyboard/build/intermediates/res/merged/debug/drawable/blacktheme_key_normal.xml",
+        "source": "/home/element/soft_keyboard/src/main/res/drawable/blacktheme_key_normal.xml"
+    },
+    {
+        "merged": "/home/element/soft_keyboard/build/intermediates/res/merged/debug/drawable/abc_tab_indicator_material.xml",
+        "source": "/home/element/soft_keyboard/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/drawable/abc_tab_indicator_material.xml"
+    },
+    {
+        "merged": "/home/element/soft_keyboard/build/intermediates/res/merged/debug/drawable/window_popup_background_inner.xml",
+        "source": "/home/element/soft_keyboard/src/main/res/drawable/window_popup_background_inner.xml"
+    },
+    {
+        "merged": "/home/element/soft_keyboard/build/intermediates/res/merged/debug/drawable/lean_dark_btn_function.9.png",
+        "source": "/home/element/soft_keyboard/src/main/res/drawable/lean_dark_btn_function.9.png"
+    },
+    {
+        "merged": "/home/element/soft_keyboard/build/intermediates/res/merged/debug/drawable/ic_launcher.png",
+        "source": "/home/element/soft_keyboard/src/main/res/drawable/ic_launcher.png"
+    },
+    {
+        "merged": "/home/element/soft_keyboard/build/intermediates/res/merged/debug/drawable/sym_keyboard_shift_on_light.png",
+        "source": "/home/element/soft_keyboard/src/main/res/drawable/sym_keyboard_shift_on_light.png"
+    },
+    {
+        "merged": "/home/element/soft_keyboard/build/intermediates/res/merged/debug/drawable/lean_dark_candidates_background.xml",
+        "source": "/home/element/soft_keyboard/src/main/res/drawable/lean_dark_candidates_background.xml"
+    },
+    {
+        "merged": "/home/element/soft_keyboard/build/intermediates/res/merged/debug/drawable/sym_keyboard_shift_light.png",
+        "source": "/home/element/soft_keyboard/src/main/res/drawable/sym_keyboard_shift_light.png"
+    },
+    {
+        "merged": "/home/element/soft_keyboard/build/intermediates/res/merged/debug/drawable/abc_switch_thumb_material.xml",
+        "source": "/home/element/soft_keyboard/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/drawable/abc_switch_thumb_material.xml"
+    },
+    {
+        "merged": "/home/element/soft_keyboard/build/intermediates/res/merged/debug/drawable/abc_text_cursor_material.xml",
+        "source": "/home/element/soft_keyboard/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/drawable/abc_text_cursor_material.xml"
+    },
+    {
+        "merged": "/home/element/soft_keyboard/build/intermediates/res/merged/debug/drawable/sym_keyboard_num0.png",
+        "source": "/home/element/soft_keyboard/src/main/res/drawable/sym_keyboard_num0.png"
+    },
+    {
+        "merged": "/home/element/soft_keyboard/build/intermediates/res/merged/debug/drawable/lean_dark_btn_action_pressed.9.png",
+        "source": "/home/element/soft_keyboard/src/main/res/drawable/lean_dark_btn_action_pressed.9.png"
+    },
+    {
+        "merged": "/home/element/soft_keyboard/build/intermediates/res/merged/debug/drawable/sym_keyboard_num2.png",
+        "source": "/home/element/soft_keyboard/src/main/res/drawable/sym_keyboard_num2.png"
+    },
+    {
+        "merged": "/home/element/soft_keyboard/build/intermediates/res/merged/debug/drawable/abc_cab_background_internal_bg.xml",
+        "source": "/home/element/soft_keyboard/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/drawable/abc_cab_background_internal_bg.xml"
+    },
+    {
+        "merged": "/home/element/soft_keyboard/build/intermediates/res/merged/debug/drawable/lean_light_btn_special.9.png",
+        "source": "/home/element/soft_keyboard/src/main/res/drawable/lean_light_btn_special.9.png"
+    },
+    {
+        "merged": "/home/element/soft_keyboard/build/intermediates/res/merged/debug/drawable/dark_suggestions_divider.png",
+        "source": "/home/element/soft_keyboard/src/main/res/drawable/dark_suggestions_divider.png"
+    },
+    {
+        "merged": "/home/element/soft_keyboard/build/intermediates/res/merged/debug/drawable/lean_dark_keyboard_background.xml",
+        "source": "/home/element/soft_keyboard/src/main/res/drawable/lean_dark_keyboard_background.xml"
+    },
+    {
+        "merged": "/home/element/soft_keyboard/build/intermediates/res/merged/debug/drawable/blacktheme_key_action.xml",
+        "source": "/home/element/soft_keyboard/src/main/res/drawable/blacktheme_key_action.xml"
+    },
+    {
+        "merged": "/home/element/soft_keyboard/build/intermediates/res/merged/debug/drawable/light_key_shift_set.xml",
+        "source": "/home/element/soft_keyboard/src/main/res/drawable/light_key_shift_set.xml"
+    },
+    {
+        "merged": "/home/element/soft_keyboard/build/intermediates/res/merged/debug/drawable/abc_list_selector_background_transition_holo_dark.xml",
+        "source": "/home/element/soft_keyboard/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/drawable/abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "/home/element/soft_keyboard/build/intermediates/res/merged/debug/drawable/lean_light_btn_popup.xml",
+        "source": "/home/element/soft_keyboard/src/main/res/drawable/lean_light_btn_popup.xml"
+    },
+    {
+        "merged": "/home/element/soft_keyboard/build/intermediates/res/merged/debug/drawable/sym_keyboard_key_domain.png",
+        "source": "/home/element/soft_keyboard/src/main/res/drawable/sym_keyboard_key_domain.png"
+    },
+    {
+        "merged": "/home/element/soft_keyboard/build/intermediates/res/merged/debug/drawable/abc_textfield_search_material.xml",
+        "source": "/home/element/soft_keyboard/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/drawable/abc_textfield_search_material.xml"
+    },
+    {
+        "merged": "/home/element/soft_keyboard/build/intermediates/res/merged/debug/drawable/notification_error_icon.png",
+        "source": "/home/element/soft_keyboard/src/main/res/drawable/notification_error_icon.png"
+    },
+    {
+        "merged": "/home/element/soft_keyboard/build/intermediates/res/merged/debug/drawable/close_candidates_hint_background.xml",
+        "source": "/home/element/soft_keyboard/src/main/res/drawable/close_candidates_hint_background.xml"
+    },
+    {
+        "merged": "/home/element/soft_keyboard/build/intermediates/res/merged/debug/drawable/blacktheme_key_function.xml",
+        "source": "/home/element/soft_keyboard/src/main/res/drawable/blacktheme_key_function.xml"
+    },
+    {
+        "merged": "/home/element/soft_keyboard/build/intermediates/res/merged/debug/drawable/sym_keyboard_space_light.9.png",
+        "source": "/home/element/soft_keyboard/src/main/res/drawable/sym_keyboard_space_light.9.png"
+    },
+    {
+        "merged": "/home/element/soft_keyboard/build/intermediates/res/merged/debug/drawable/blacktheme_key_normal_pressed.xml",
+        "source": "/home/element/soft_keyboard/src/main/res/drawable/blacktheme_key_normal_pressed.xml"
+    },
+    {
+        "merged": "/home/element/soft_keyboard/build/intermediates/res/merged/debug/drawable/sym_keyboard_num1.png",
+        "source": "/home/element/soft_keyboard/src/main/res/drawable/sym_keyboard_num1.png"
+    },
+    {
+        "merged": "/home/element/soft_keyboard/build/intermediates/res/merged/debug/drawable/lean_dark_popup_btn_normal.xml",
+        "source": "/home/element/soft_keyboard/src/main/res/drawable/lean_dark_popup_btn_normal.xml"
+    },
+    {
+        "merged": "/home/element/soft_keyboard/build/intermediates/res/merged/debug/drawable/sym_keyboard_ctrl_on_light.png",
+        "source": "/home/element/soft_keyboard/src/main/res/drawable/sym_keyboard_ctrl_on_light.png"
+    },
+    {
+        "merged": "/home/element/soft_keyboard/build/intermediates/res/merged/debug/drawable/sym_keyboard_shift_on.png",
+        "source": "/home/element/soft_keyboard/src/main/res/drawable/sym_keyboard_shift_on.png"
+    },
+    {
+        "merged": "/home/element/soft_keyboard/build/intermediates/res/merged/debug/drawable/abc_ratingbar_full_material.xml",
+        "source": "/home/element/soft_keyboard/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/drawable/abc_ratingbar_full_material.xml"
+    },
+    {
+        "merged": "/home/element/soft_keyboard/build/intermediates/res/merged/debug/drawable/abc_spinner_textfield_background_material.xml",
+        "source": "/home/element/soft_keyboard/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/drawable/abc_spinner_textfield_background_material.xml"
+    },
+    {
+        "merged": "/home/element/soft_keyboard/build/intermediates/res/merged/debug/drawable/dark_theme_screenshot.jpg",
+        "source": "/home/element/soft_keyboard/src/main/res/drawable/dark_theme_screenshot.jpg"
+    },
+    {
+        "merged": "/home/element/soft_keyboard/build/intermediates/res/merged/debug/drawable/card_background_pressed.xml",
+        "source": "/home/element/soft_keyboard/src/main/res/drawable/card_background_pressed.xml"
+    },
+    {
+        "merged": "/home/element/soft_keyboard/build/intermediates/res/merged/debug/drawable/menu_background.xml",
+        "source": "/home/element/soft_keyboard/src/main/res/drawable/menu_background.xml"
+    },
+    {
+        "merged": "/home/element/soft_keyboard/build/intermediates/res/merged/debug/drawable/lean_dark_btn_popup.xml",
+        "source": "/home/element/soft_keyboard/src/main/res/drawable/lean_dark_btn_popup.xml"
+    },
+    {
+        "merged": "/home/element/soft_keyboard/build/intermediates/res/merged/debug/drawable/ask_wallpaper.9.png",
+        "source": "/home/element/soft_keyboard/src/main/res/drawable/ask_wallpaper.9.png"
+    },
+    {
+        "merged": "/home/element/soft_keyboard/build/intermediates/res/merged/debug/drawable/blacktheme_suggestion_background.xml",
+        "source": "/home/element/soft_keyboard/src/main/res/drawable/blacktheme_suggestion_background.xml"
+    },
+    {
+        "merged": "/home/element/soft_keyboard/build/intermediates/res/merged/debug/drawable/psts_background_tab.xml",
+        "source": "/home/element/soft_keyboard/build/intermediates/exploded-aar/com.jpardogo.materialtabstrip/library/1.1.0/res/drawable/psts_background_tab.xml"
+    },
+    {
+        "merged": "/home/element/soft_keyboard/build/intermediates/res/merged/debug/drawable/dark_btn_key_action_pressed.xml",
+        "source": "/home/element/soft_keyboard/src/main/res/drawable/dark_btn_key_action_pressed.xml"
+    },
+    {
+        "merged": "/home/element/soft_keyboard/build/intermediates/res/merged/debug/drawable/sym_keyboard_ctrl_light.png",
+        "source": "/home/element/soft_keyboard/src/main/res/drawable/sym_keyboard_ctrl_light.png"
+    },
+    {
+        "merged": "/home/element/soft_keyboard/build/intermediates/res/merged/debug/drawable/blacktheme_popupkey.xml",
+        "source": "/home/element/soft_keyboard/src/main/res/drawable/blacktheme_popupkey.xml"
+    }
+]

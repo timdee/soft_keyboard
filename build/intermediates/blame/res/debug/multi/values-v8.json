@@ -1,0 +1,45 @@
+[
+    {
+        "outputFile": "/home/element/soft_keyboard/build/intermediates/res/merged/debug/values-v8/values-v8.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 141,
+                    "endOffset": 192
+                },
+                "from": {
+                    "file": "/home/element/soft_keyboard/src/main/res/values-v8/frankenrobot.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 141,
+                        "endOffset": 192
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 197,
+                    "endColumn": 104,
+                    "endOffset": 297
+                },
+                "from": {
+                    "file": "/home/element/soft_keyboard/src/main/res/values-v8/settings_defaults_dont_translate.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 218,
+                        "endColumn": 104,
+                        "endOffset": 318
+                    }
+                }
+            }
+        ]
+    }
+]

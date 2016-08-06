@@ -1,0 +1,425 @@
+[
+    {
+        "outputFile": "/home/element/soft_keyboard/build/intermediates/res/merged/debug/values-large-land-v4/values-large-land-v4.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 50,
+                    "endOffset": 101
+                },
+                "from": {
+                    "file": "/home/element/soft_keyboard/src/main/res/values-large-land/dimens.xml",
+                    "position": {
+                        "startLine": 26,
+                        "startColumn": 4,
+                        "startOffset": 886,
+                        "endColumn": 50,
+                        "endOffset": 932
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 106,
+                    "endColumn": 45,
+                    "endOffset": 147
+                },
+                "from": {
+                    "file": "/home/element/soft_keyboard/src/main/res/values-large-land/dimens.xml",
+                    "position": {
+                        "startLine": 25,
+                        "startColumn": 4,
+                        "startOffset": 840,
+                        "endColumn": 45,
+                        "endOffset": 881
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 152,
+                    "endColumn": 50,
+                    "endOffset": 198
+                },
+                "from": {
+                    "file": "/home/element/soft_keyboard/src/main/res/values-large-land/dimens.xml",
+                    "position": {
+                        "startLine": 27,
+                        "startColumn": 4,
+                        "startOffset": 937,
+                        "endColumn": 50,
+                        "endOffset": 983
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 203,
+                    "endColumn": 52,
+                    "endOffset": 251
+                },
+                "from": {
+                    "file": "/home/element/soft_keyboard/src/main/res/values-large-land/dimens.xml",
+                    "position": {
+                        "startLine": 42,
+                        "startColumn": 4,
+                        "startOffset": 1535,
+                        "endColumn": 52,
+                        "endOffset": 1583
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 256,
+                    "endColumn": 54,
+                    "endOffset": 306
+                },
+                "from": {
+                    "file": "/home/element/soft_keyboard/src/main/res/values-large-land/dimens.xml",
+                    "position": {
+                        "startLine": 41,
+                        "startColumn": 4,
+                        "startOffset": 1480,
+                        "endColumn": 54,
+                        "endOffset": 1530
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 311,
+                    "endColumn": 55,
+                    "endOffset": 362
+                },
+                "from": {
+                    "file": "/home/element/soft_keyboard/src/main/res/values-large-land/dimens.xml",
+                    "position": {
+                        "startLine": 22,
+                        "startColumn": 4,
+                        "startOffset": 727,
+                        "endColumn": 55,
+                        "endOffset": 778
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 367,
+                    "endColumn": 50,
+                    "endOffset": 413
+                },
+                "from": {
+                    "file": "/home/element/soft_keyboard/src/main/res/values-large-land/dimens.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 4,
+                        "startOffset": 676,
+                        "endColumn": 50,
+                        "endOffset": 722
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 418,
+                    "endColumn": 56,
+                    "endOffset": 470
+                },
+                "from": {
+                    "file": "/home/element/soft_keyboard/src/main/res/values-large-land/dimens.xml",
+                    "position": {
+                        "startLine": 30,
+                        "startColumn": 4,
+                        "startOffset": 1045,
+                        "endColumn": 56,
+                        "endOffset": 1097
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 475,
+                    "endColumn": 55,
+                    "endOffset": 526
+                },
+                "from": {
+                    "file": "/home/element/soft_keyboard/src/main/res/values-large-land/dimens.xml",
+                    "position": {
+                        "startLine": 23,
+                        "startColumn": 4,
+                        "startOffset": 783,
+                        "endColumn": 55,
+                        "endOffset": 834
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 531,
+                    "endColumn": 55,
+                    "endOffset": 582
+                },
+                "from": {
+                    "file": "/home/element/soft_keyboard/src/main/res/values-large-land/dimens.xml",
+                    "position": {
+                        "startLine": 29,
+                        "startColumn": 4,
+                        "startOffset": 989,
+                        "endColumn": 55,
+                        "endOffset": 1040
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 587,
+                    "endColumn": 59,
+                    "endOffset": 642
+                },
+                "from": {
+                    "file": "/home/element/soft_keyboard/src/main/res/values-large-land/dimens.xml",
+                    "position": {
+                        "startLine": 48,
+                        "startColumn": 4,
+                        "startOffset": 1752,
+                        "endColumn": 59,
+                        "endOffset": 1807
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 647,
+                    "endColumn": 58,
+                    "endOffset": 701
+                },
+                "from": {
+                    "file": "/home/element/soft_keyboard/src/main/res/values-large-land/dimens.xml",
+                    "position": {
+                        "startLine": 50,
+                        "startColumn": 4,
+                        "startOffset": 1858,
+                        "endColumn": 58,
+                        "endOffset": 1912
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 706,
+                    "endColumn": 50,
+                    "endOffset": 752
+                },
+                "from": {
+                    "file": "/home/element/soft_keyboard/src/main/res/values-large-land/dimens.xml",
+                    "position": {
+                        "startLine": 37,
+                        "startColumn": 4,
+                        "startOffset": 1372,
+                        "endColumn": 50,
+                        "endOffset": 1418
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 757,
+                    "endColumn": 44,
+                    "endOffset": 797
+                },
+                "from": {
+                    "file": "/home/element/soft_keyboard/src/main/res/values-large-land/dimens.xml",
+                    "position": {
+                        "startLine": 34,
+                        "startColumn": 4,
+                        "startOffset": 1223,
+                        "endColumn": 44,
+                        "endOffset": 1263
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 802,
+                    "endColumn": 54,
+                    "endOffset": 852
+                },
+                "from": {
+                    "file": "/home/element/soft_keyboard/src/main/res/values-large-land/dimens.xml",
+                    "position": {
+                        "startLine": 39,
+                        "startColumn": 4,
+                        "startOffset": 1424,
+                        "endColumn": 54,
+                        "endOffset": 1474
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 857,
+                    "endColumn": 53,
+                    "endOffset": 906
+                },
+                "from": {
+                    "file": "/home/element/soft_keyboard/src/main/res/values-large-land/dimens.xml",
+                    "position": {
+                        "startLine": 36,
+                        "startColumn": 4,
+                        "startOffset": 1318,
+                        "endColumn": 53,
+                        "endOffset": 1367
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 911,
+                    "endColumn": 49,
+                    "endOffset": 956
+                },
+                "from": {
+                    "file": "/home/element/soft_keyboard/src/main/res/values-large-land/dimens.xml",
+                    "position": {
+                        "startLine": 35,
+                        "startColumn": 4,
+                        "startOffset": 1268,
+                        "endColumn": 49,
+                        "endOffset": 1313
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 19,
+                    "startColumn": 4,
+                    "startOffset": 961,
+                    "endColumn": 60,
+                    "endOffset": 1017
+                },
+                "from": {
+                    "file": "/home/element/soft_keyboard/src/main/res/values-large-land/dimens.xml",
+                    "position": {
+                        "startLine": 31,
+                        "startColumn": 4,
+                        "startOffset": 1102,
+                        "endColumn": 60,
+                        "endOffset": 1158
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 20,
+                    "startColumn": 4,
+                    "startOffset": 1022,
+                    "endColumn": 58,
+                    "endOffset": 1076
+                },
+                "from": {
+                    "file": "/home/element/soft_keyboard/src/main/res/values-large-land/dimens.xml",
+                    "position": {
+                        "startLine": 32,
+                        "startColumn": 4,
+                        "startOffset": 1163,
+                        "endColumn": 58,
+                        "endOffset": 1217
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 21,
+                    "startColumn": 4,
+                    "startOffset": 1081,
+                    "endColumn": 54,
+                    "endOffset": 1131
+                },
+                "from": {
+                    "file": "/home/element/soft_keyboard/src/main/res/values-large-land/dimens.xml",
+                    "position": {
+                        "startLine": 44,
+                        "startColumn": 4,
+                        "startOffset": 1589,
+                        "endColumn": 54,
+                        "endOffset": 1639
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 22,
+                    "startColumn": 4,
+                    "startOffset": 1136,
+                    "endColumn": 59,
+                    "endOffset": 1191
+                },
+                "from": {
+                    "file": "/home/element/soft_keyboard/src/main/res/values-large-land/dimens.xml",
+                    "position": {
+                        "startLine": 45,
+                        "startColumn": 4,
+                        "startOffset": 1644,
+                        "endColumn": 59,
+                        "endOffset": 1699
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 23,
+                    "startColumn": 4,
+                    "startOffset": 1196,
+                    "endColumn": 58,
+                    "endOffset": 1250
+                },
+                "from": {
+                    "file": "/home/element/soft_keyboard/src/main/res/values-large-land/integers.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 58,
+                        "endOffset": 109
+                    }
+                }
+            }
+        ]
+    }
+]

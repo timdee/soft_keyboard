@@ -1,0 +1,110 @@
+[
+    {
+        "outputFile": "/home/element/soft_keyboard/build/intermediates/res/merged/debug/values-kn/values-kn.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endLine": 6,
+                    "endColumn": 17,
+                    "endOffset": 187
+                },
+                "from": {
+                    "file": "/home/element/soft_keyboard/src/main/res/values-kn/strings.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 2,
+                        "startOffset": 605,
+                        "endLine": 19,
+                        "endColumn": 17,
+                        "endOffset": 737
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 192,
+                    "endLine": 10,
+                    "endColumn": 17,
+                    "endOffset": 301
+                },
+                "from": {
+                    "file": "/home/element/soft_keyboard/src/main/res/values-kn/strings.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 2,
+                        "startOffset": 740,
+                        "endLine": 23,
+                        "endColumn": 17,
+                        "endOffset": 849
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 306,
+                    "endLine": 15,
+                    "endColumn": 17,
+                    "endOffset": 508
+                },
+                "from": {
+                    "file": "/home/element/soft_keyboard/src/main/res/values-kn/strings.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 2,
+                        "startOffset": 238,
+                        "endLine": 8,
+                        "endColumn": 17,
+                        "endOffset": 440
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 513,
+                    "endLine": 21,
+                    "endColumn": 17,
+                    "endOffset": 672
+                },
+                "from": {
+                    "file": "/home/element/soft_keyboard/src/main/res/values-kn/strings.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 2,
+                        "startOffset": 443,
+                        "endLine": 14,
+                        "endColumn": 17,
+                        "endOffset": 602
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 22,
+                    "startColumn": 4,
+                    "startOffset": 677,
+                    "endColumn": 55,
+                    "endOffset": 728
+                },
+                "from": {
+                    "file": "/home/element/soft_keyboard/src/main/res/values-kn/strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 2,
+                        "startOffset": 184,
+                        "endColumn": 53,
+                        "endOffset": 235
+                    }
+                }
+            }
+        ]
+    }
+]

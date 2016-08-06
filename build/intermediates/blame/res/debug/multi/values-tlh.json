@@ -1,0 +1,336 @@
+[
+    {
+        "outputFile": "/home/element/soft_keyboard/build/intermediates/res/merged/debug/values-tlh/values-tlh.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 105,
+                    "endLine": 5,
+                    "endColumn": 17,
+                    "endOffset": 215
+                },
+                "from": {
+                    "file": "/home/element/soft_keyboard/src/main/res/values-tlh/strings.xml",
+                    "position": {
+                        "startLine": 28,
+                        "startColumn": 2,
+                        "startOffset": 1474,
+                        "endLine": 31,
+                        "endColumn": 17,
+                        "endOffset": 1584
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 220,
+                    "endLine": 10,
+                    "endColumn": 17,
+                    "endOffset": 417
+                },
+                "from": {
+                    "file": "/home/element/soft_keyboard/src/main/res/values-tlh/strings.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 2,
+                        "startOffset": 786,
+                        "endLine": 16,
+                        "endColumn": 17,
+                        "endOffset": 983
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 422,
+                    "endLine": 16,
+                    "endColumn": 17,
+                    "endOffset": 581
+                },
+                "from": {
+                    "file": "/home/element/soft_keyboard/src/main/res/values-tlh/strings.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 2,
+                        "startOffset": 1252,
+                        "endLine": 26,
+                        "endColumn": 17,
+                        "endOffset": 1411
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 586,
+                    "endColumn": 48,
+                    "endOffset": 630
+                },
+                "from": {
+                    "file": "/home/element/soft_keyboard/src/main/res/values-tlh/strings.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 2,
+                        "startOffset": 562,
+                        "endColumn": 46,
+                        "endOffset": 606
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 635,
+                    "endColumn": 47,
+                    "endOffset": 678
+                },
+                "from": {
+                    "file": "/home/element/soft_keyboard/src/main/res/values-tlh/strings.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 2,
+                        "startOffset": 676,
+                        "endColumn": 45,
+                        "endOffset": 719
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 19,
+                    "startColumn": 4,
+                    "startOffset": 683,
+                    "endColumn": 52,
+                    "endOffset": 731
+                },
+                "from": {
+                    "file": "/home/element/soft_keyboard/src/main/res/values-tlh/strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 2,
+                        "startOffset": 218,
+                        "endColumn": 50,
+                        "endOffset": 266
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 20,
+                    "startColumn": 4,
+                    "startOffset": 736,
+                    "endColumn": 68,
+                    "endOffset": 800
+                },
+                "from": {
+                    "file": "/home/element/soft_keyboard/src/main/res/values-tlh/strings.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 2,
+                        "startOffset": 609,
+                        "endColumn": 66,
+                        "endOffset": 673
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 21,
+                    "startColumn": 4,
+                    "startOffset": 805,
+                    "endColumn": 48,
+                    "endOffset": 849
+                },
+                "from": {
+                    "file": "/home/element/soft_keyboard/src/main/res/values-tlh/strings.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 2,
+                        "startOffset": 515,
+                        "endColumn": 46,
+                        "endOffset": 559
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 22,
+                    "startColumn": 4,
+                    "startOffset": 854,
+                    "endColumn": 47,
+                    "endOffset": 897
+                },
+                "from": {
+                    "file": "/home/element/soft_keyboard/src/main/res/values-tlh/strings.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 2,
+                        "startOffset": 405,
+                        "endColumn": 45,
+                        "endOffset": 448
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 23,
+                    "startColumn": 4,
+                    "startOffset": 902,
+                    "endColumn": 61,
+                    "endOffset": 959
+                },
+                "from": {
+                    "file": "/home/element/soft_keyboard/src/main/res/values-tlh/strings.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 2,
+                        "startOffset": 1139,
+                        "endColumn": 59,
+                        "endOffset": 1196
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 24,
+                    "startColumn": 4,
+                    "startOffset": 964,
+                    "endColumn": 54,
+                    "endOffset": 1014
+                },
+                "from": {
+                    "file": "/home/element/soft_keyboard/src/main/res/values-tlh/strings.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 2,
+                        "startOffset": 1199,
+                        "endColumn": 52,
+                        "endOffset": 1249
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 25,
+                    "startColumn": 4,
+                    "startOffset": 1019,
+                    "endColumn": 65,
+                    "endOffset": 1080
+                },
+                "from": {
+                    "file": "/home/element/soft_keyboard/src/main/res/values-tlh/strings.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 2,
+                        "startOffset": 722,
+                        "endColumn": 63,
+                        "endOffset": 783
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 26,
+                    "startColumn": 4,
+                    "startOffset": 1085,
+                    "endColumn": 61,
+                    "endOffset": 1142
+                },
+                "from": {
+                    "file": "/home/element/soft_keyboard/src/main/res/values-tlh/strings.xml",
+                    "position": {
+                        "startLine": 27,
+                        "startColumn": 2,
+                        "startOffset": 1414,
+                        "endColumn": 59,
+                        "endOffset": 1471
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 27,
+                    "startColumn": 4,
+                    "startOffset": 1147,
+                    "endColumn": 65,
+                    "endOffset": 1208
+                },
+                "from": {
+                    "file": "/home/element/soft_keyboard/src/main/res/values-tlh/strings.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 2,
+                        "startOffset": 451,
+                        "endColumn": 63,
+                        "endOffset": 512
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 28,
+                    "startColumn": 4,
+                    "startOffset": 1213,
+                    "endColumn": 129,
+                    "endOffset": 1338
+                },
+                "from": {
+                    "file": "/home/element/soft_keyboard/src/main/res/values-tlh/strings.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 2,
+                        "startOffset": 269,
+                        "endColumn": 135,
+                        "endOffset": 402
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 29,
+                    "startColumn": 4,
+                    "startOffset": 1343,
+                    "endColumn": 83,
+                    "endOffset": 1422
+                },
+                "from": {
+                    "file": "/home/element/soft_keyboard/src/main/res/values-tlh/strings.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 2,
+                        "startOffset": 1057,
+                        "endColumn": 81,
+                        "endOffset": 1136
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 30,
+                    "startColumn": 4,
+                    "startOffset": 1427,
+                    "endColumn": 72,
+                    "endOffset": 1495
+                },
+                "from": {
+                    "file": "/home/element/soft_keyboard/src/main/res/values-tlh/strings.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 2,
+                        "startOffset": 986,
+                        "endColumn": 70,
+                        "endOffset": 1054
+                    }
+                }
+            }
+        ]
+    }
+]

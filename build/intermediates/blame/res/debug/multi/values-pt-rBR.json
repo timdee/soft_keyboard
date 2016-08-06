@@ -1,0 +1,2094 @@
+[
+    {
+        "outputFile": "/home/element/soft_keyboard/build/intermediates/res/merged/debug/values-pt-rBR/values-pt-rBR.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endLine": 6,
+                    "endColumn": 19,
+                    "endOffset": 201
+                },
+                "from": {
+                    "file": "/home/element/soft_keyboard/src/main/res/values-pt-rBR/strings.xml",
+                    "position": {
+                        "startLine": 110,
+                        "startColumn": 4,
+                        "startOffset": 6720,
+                        "endLine": 114,
+                        "endColumn": 19,
+                        "endOffset": 6866
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 206,
+                    "endLine": 10,
+                    "endColumn": 19,
+                    "endOffset": 325
+                },
+                "from": {
+                    "file": "/home/element/soft_keyboard/src/main/res/values-pt-rBR/strings.xml",
+                    "position": {
+                        "startLine": 115,
+                        "startColumn": 4,
+                        "startOffset": 6871,
+                        "endLine": 118,
+                        "endColumn": 19,
+                        "endOffset": 6990
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 330,
+                    "endLine": 15,
+                    "endColumn": 19,
+                    "endOffset": 546
+                },
+                "from": {
+                    "file": "/home/element/soft_keyboard/src/main/res/values-pt-rBR/strings.xml",
+                    "position": {
+                        "startLine": 99,
+                        "startColumn": 4,
+                        "startOffset": 6311,
+                        "endLine": 103,
+                        "endColumn": 19,
+                        "endOffset": 6527
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 551,
+                    "endLine": 21,
+                    "endColumn": 19,
+                    "endOffset": 734
+                },
+                "from": {
+                    "file": "/home/element/soft_keyboard/src/main/res/values-pt-rBR/strings.xml",
+                    "position": {
+                        "startLine": 104,
+                        "startColumn": 4,
+                        "startOffset": 6532,
+                        "endLine": 109,
+                        "endColumn": 19,
+                        "endOffset": 6715
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 22,
+                    "startColumn": 4,
+                    "startOffset": 739,
+                    "endColumn": 119,
+                    "endOffset": 854
+                },
+                "from": {
+                    "file": "/home/element/soft_keyboard/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/values-pt-rBR/values-pt-rBR.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 119,
+                        "endOffset": 170
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 23,
+                    "startColumn": 4,
+                    "startOffset": 859,
+                    "endColumn": 107,
+                    "endOffset": 962
+                },
+                "from": {
+                    "file": "/home/element/soft_keyboard/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/values-pt-rBR/values-pt-rBR.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 175,
+                        "endColumn": 107,
+                        "endOffset": 278
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 24,
+                    "startColumn": 4,
+                    "startOffset": 967,
+                    "endColumn": 122,
+                    "endOffset": 1085
+                },
+                "from": {
+                    "file": "/home/element/soft_keyboard/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/values-pt-rBR/values-pt-rBR.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 283,
+                        "endColumn": 122,
+                        "endOffset": 401
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 25,
+                    "startColumn": 4,
+                    "startOffset": 1090,
+                    "endColumn": 105,
+                    "endOffset": 1191
+                },
+                "from": {
+                    "file": "/home/element/soft_keyboard/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/values-pt-rBR/values-pt-rBR.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 406,
+                        "endColumn": 105,
+                        "endOffset": 507
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 26,
+                    "startColumn": 4,
+                    "startOffset": 1196,
+                    "endColumn": 106,
+                    "endOffset": 1298
+                },
+                "from": {
+                    "file": "/home/element/soft_keyboard/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/values-pt-rBR/values-pt-rBR.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 512,
+                        "endColumn": 106,
+                        "endOffset": 614
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 27,
+                    "startColumn": 4,
+                    "startOffset": 1303,
+                    "endColumn": 88,
+                    "endOffset": 1387
+                },
+                "from": {
+                    "file": "/home/element/soft_keyboard/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/values-pt-rBR/values-pt-rBR.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 619,
+                        "endColumn": 88,
+                        "endOffset": 703
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 28,
+                    "startColumn": 4,
+                    "startOffset": 1392,
+                    "endColumn": 100,
+                    "endOffset": 1488
+                },
+                "from": {
+                    "file": "/home/element/soft_keyboard/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/values-pt-rBR/values-pt-rBR.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 708,
+                        "endColumn": 100,
+                        "endOffset": 804
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 29,
+                    "startColumn": 4,
+                    "startOffset": 1493,
+                    "endColumn": 117,
+                    "endOffset": 1606
+                },
+                "from": {
+                    "file": "/home/element/soft_keyboard/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/values-pt-rBR/values-pt-rBR.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 809,
+                        "endColumn": 117,
+                        "endOffset": 922
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 30,
+                    "startColumn": 4,
+                    "startOffset": 1611,
+                    "endColumn": 82,
+                    "endOffset": 1689
+                },
+                "from": {
+                    "file": "/home/element/soft_keyboard/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/values-pt-rBR/values-pt-rBR.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 927,
+                        "endColumn": 82,
+                        "endOffset": 1005
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 31,
+                    "startColumn": 4,
+                    "startOffset": 1694,
+                    "endColumn": 79,
+                    "endOffset": 1769
+                },
+                "from": {
+                    "file": "/home/element/soft_keyboard/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/values-pt-rBR/values-pt-rBR.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 1010,
+                        "endColumn": 79,
+                        "endOffset": 1085
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 32,
+                    "startColumn": 4,
+                    "startOffset": 1774,
+                    "endColumn": 86,
+                    "endOffset": 1856
+                },
+                "from": {
+                    "file": "/home/element/soft_keyboard/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/values-pt-rBR/values-pt-rBR.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 1090,
+                        "endColumn": 86,
+                        "endOffset": 1172
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 33,
+                    "startColumn": 4,
+                    "startOffset": 1861,
+                    "endColumn": 106,
+                    "endOffset": 1963
+                },
+                "from": {
+                    "file": "/home/element/soft_keyboard/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/values-pt-rBR/values-pt-rBR.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 1177,
+                        "endColumn": 106,
+                        "endOffset": 1279
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 34,
+                    "startColumn": 4,
+                    "startOffset": 1968,
+                    "endColumn": 111,
+                    "endOffset": 2075
+                },
+                "from": {
+                    "file": "/home/element/soft_keyboard/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/values-pt-rBR/values-pt-rBR.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 1284,
+                        "endColumn": 111,
+                        "endOffset": 1391
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 35,
+                    "startColumn": 4,
+                    "startOffset": 2080,
+                    "endColumn": 101,
+                    "endOffset": 2177
+                },
+                "from": {
+                    "file": "/home/element/soft_keyboard/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/values-pt-rBR/values-pt-rBR.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 1396,
+                        "endColumn": 101,
+                        "endOffset": 1493
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 36,
+                    "startColumn": 4,
+                    "startOffset": 2182,
+                    "endColumn": 107,
+                    "endOffset": 2285
+                },
+                "from": {
+                    "file": "/home/element/soft_keyboard/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/values-pt-rBR/values-pt-rBR.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 1498,
+                        "endColumn": 107,
+                        "endOffset": 1601
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 37,
+                    "startColumn": 4,
+                    "startOffset": 2290,
+                    "endColumn": 106,
+                    "endOffset": 2392
+                },
+                "from": {
+                    "file": "/home/element/soft_keyboard/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/values-pt-rBR/values-pt-rBR.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 1606,
+                        "endColumn": 106,
+                        "endOffset": 1708
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 38,
+                    "startColumn": 4,
+                    "startOffset": 2397,
+                    "endColumn": 109,
+                    "endOffset": 2502
+                },
+                "from": {
+                    "file": "/home/element/soft_keyboard/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/values-pt-rBR/values-pt-rBR.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 1713,
+                        "endColumn": 109,
+                        "endOffset": 1818
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 39,
+                    "startColumn": 4,
+                    "startOffset": 2507,
+                    "endColumn": 124,
+                    "endOffset": 2627
+                },
+                "from": {
+                    "file": "/home/element/soft_keyboard/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/values-pt-rBR/values-pt-rBR.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 1823,
+                        "endColumn": 124,
+                        "endOffset": 1943
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 40,
+                    "startColumn": 4,
+                    "startOffset": 2632,
+                    "endColumn": 99,
+                    "endOffset": 2727
+                },
+                "from": {
+                    "file": "/home/element/soft_keyboard/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/values-pt-rBR/values-pt-rBR.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 4,
+                        "startOffset": 1948,
+                        "endColumn": 99,
+                        "endOffset": 2043
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 41,
+                    "startColumn": 4,
+                    "startOffset": 2732,
+                    "endColumn": 59,
+                    "endOffset": 2787
+                },
+                "from": {
+                    "file": "/home/element/soft_keyboard/src/main/res/values-pt-rBR/strings.xml",
+                    "position": {
+                        "startLine": 65,
+                        "startColumn": 4,
+                        "startOffset": 4143,
+                        "endColumn": 59,
+                        "endOffset": 4198
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 42,
+                    "startColumn": 4,
+                    "startOffset": 2792,
+                    "endColumn": 64,
+                    "endOffset": 2852
+                },
+                "from": {
+                    "file": "/home/element/soft_keyboard/src/main/res/values-pt-rBR/strings.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 4,
+                        "startOffset": 1167,
+                        "endColumn": 64,
+                        "endOffset": 1227
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 43,
+                    "startColumn": 4,
+                    "startOffset": 2857,
+                    "endColumn": 51,
+                    "endOffset": 2904
+                },
+                "from": {
+                    "file": "/home/element/soft_keyboard/src/main/res/values-pt-rBR/strings.xml",
+                    "position": {
+                        "startLine": 78,
+                        "startColumn": 4,
+                        "startOffset": 4925,
+                        "endColumn": 51,
+                        "endOffset": 4972
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 44,
+                    "startColumn": 4,
+                    "startOffset": 2909,
+                    "endColumn": 54,
+                    "endOffset": 2959
+                },
+                "from": {
+                    "file": "/home/element/soft_keyboard/src/main/res/values-pt-rBR/strings.xml",
+                    "position": {
+                        "startLine": 79,
+                        "startColumn": 4,
+                        "startOffset": 4977,
+                        "endColumn": 54,
+                        "endOffset": 5027
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 45,
+                    "startColumn": 4,
+                    "startOffset": 2964,
+                    "endColumn": 47,
+                    "endOffset": 3007
+                },
+                "from": {
+                    "file": "/home/element/soft_keyboard/src/main/res/values-pt-rBR/strings.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 557,
+                        "endColumn": 47,
+                        "endOffset": 600
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 46,
+                    "startColumn": 4,
+                    "startOffset": 3012,
+                    "endColumn": 49,
+                    "endOffset": 3057
+                },
+                "from": {
+                    "file": "/home/element/soft_keyboard/src/main/res/values-pt-rBR/strings.xml",
+                    "position": {
+                        "startLine": 23,
+                        "startColumn": 4,
+                        "startOffset": 1374,
+                        "endColumn": 49,
+                        "endOffset": 1419
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 47,
+                    "startColumn": 4,
+                    "startOffset": 3062,
+                    "endColumn": 49,
+                    "endOffset": 3107
+                },
+                "from": {
+                    "file": "/home/element/soft_keyboard/src/main/res/values-pt-rBR/strings.xml",
+                    "position": {
+                        "startLine": 81,
+                        "startColumn": 4,
+                        "startOffset": 5108,
+                        "endColumn": 49,
+                        "endOffset": 5153
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 48,
+                    "startColumn": 4,
+                    "startOffset": 3112,
+                    "endColumn": 47,
+                    "endOffset": 3155
+                },
+                "from": {
+                    "file": "/home/element/soft_keyboard/src/main/res/values-pt-rBR/strings.xml",
+                    "position": {
+                        "startLine": 68,
+                        "startColumn": 4,
+                        "startOffset": 4312,
+                        "endColumn": 47,
+                        "endOffset": 4355
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 49,
+                    "startColumn": 4,
+                    "startOffset": 3160,
+                    "endColumn": 85,
+                    "endOffset": 3241
+                },
+                "from": {
+                    "file": "/home/element/soft_keyboard/src/main/res/values-pt-rBR/strings.xml",
+                    "position": {
+                        "startLine": 70,
+                        "startColumn": 4,
+                        "startOffset": 4442,
+                        "endColumn": 85,
+                        "endOffset": 4523
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 50,
+                    "startColumn": 4,
+                    "startOffset": 3246,
+                    "endColumn": 94,
+                    "endOffset": 3336
+                },
+                "from": {
+                    "file": "/home/element/soft_keyboard/src/main/res/values-pt-rBR/strings.xml",
+                    "position": {
+                        "startLine": 71,
+                        "startColumn": 4,
+                        "startOffset": 4528,
+                        "endColumn": 94,
+                        "endOffset": 4618
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 51,
+                    "startColumn": 4,
+                    "startOffset": 3341,
+                    "endColumn": 81,
+                    "endOffset": 3418
+                },
+                "from": {
+                    "file": "/home/element/soft_keyboard/src/main/res/values-pt-rBR/strings.xml",
+                    "position": {
+                        "startLine": 69,
+                        "startColumn": 4,
+                        "startOffset": 4360,
+                        "endColumn": 81,
+                        "endOffset": 4437
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 52,
+                    "startColumn": 4,
+                    "startOffset": 3423,
+                    "endColumn": 85,
+                    "endOffset": 3504
+                },
+                "from": {
+                    "file": "/home/element/soft_keyboard/src/main/res/values-pt-rBR/strings.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 605,
+                        "endColumn": 85,
+                        "endOffset": 686
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 53,
+                    "startColumn": 4,
+                    "startOffset": 3509,
+                    "endLine": 55,
+                    "endColumn": 13,
+                    "endOffset": 3655
+                },
+                "from": {
+                    "file": "/home/element/soft_keyboard/src/main/res/values-pt-rBR/strings.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 218,
+                        "endLine": 7,
+                        "endColumn": 13,
+                        "endOffset": 364
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 56,
+                    "startColumn": 4,
+                    "startOffset": 3660,
+                    "endColumn": 77,
+                    "endOffset": 3733
+                },
+                "from": {
+                    "file": "/home/element/soft_keyboard/src/main/res/values-pt-rBR/strings.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 140,
+                        "endColumn": 77,
+                        "endOffset": 213
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 57,
+                    "startColumn": 4,
+                    "startOffset": 3738,
+                    "endColumn": 52,
+                    "endOffset": 3786
+                },
+                "from": {
+                    "file": "/home/element/soft_keyboard/src/main/res/values-pt-rBR/strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 87,
+                        "endColumn": 52,
+                        "endOffset": 135
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 58,
+                    "startColumn": 4,
+                    "startOffset": 3791,
+                    "endColumn": 62,
+                    "endOffset": 3849
+                },
+                "from": {
+                    "file": "/home/element/soft_keyboard/src/main/res/values-pt-rBR/strings.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 369,
+                        "endColumn": 62,
+                        "endOffset": 427
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 59,
+                    "startColumn": 4,
+                    "startOffset": 3854,
+                    "endColumn": 65,
+                    "endOffset": 3915
+                },
+                "from": {
+                    "file": "/home/element/soft_keyboard/src/main/res/values-pt-rBR/strings.xml",
+                    "position": {
+                        "startLine": 24,
+                        "startColumn": 4,
+                        "startOffset": 1424,
+                        "endColumn": 65,
+                        "endOffset": 1485
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 60,
+                    "startColumn": 4,
+                    "startOffset": 3920,
+                    "endColumn": 77,
+                    "endOffset": 3993
+                },
+                "from": {
+                    "file": "/home/element/soft_keyboard/src/main/res/values-pt-rBR/strings.xml",
+                    "position": {
+                        "startLine": 64,
+                        "startColumn": 4,
+                        "startOffset": 4065,
+                        "endColumn": 77,
+                        "endOffset": 4138
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 61,
+                    "startColumn": 4,
+                    "startOffset": 3998,
+                    "endColumn": 52,
+                    "endOffset": 4046
+                },
+                "from": {
+                    "file": "/home/element/soft_keyboard/src/main/res/values-pt-rBR/strings.xml",
+                    "position": {
+                        "startLine": 67,
+                        "startColumn": 4,
+                        "startOffset": 4259,
+                        "endColumn": 52,
+                        "endOffset": 4307
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 62,
+                    "startColumn": 4,
+                    "startOffset": 4051,
+                    "endColumn": 43,
+                    "endOffset": 4090
+                },
+                "from": {
+                    "file": "/home/element/soft_keyboard/src/main/res/values-pt-rBR/strings.xml",
+                    "position": {
+                        "startLine": 72,
+                        "startColumn": 4,
+                        "startOffset": 4623,
+                        "endColumn": 43,
+                        "endOffset": 4662
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 63,
+                    "startColumn": 4,
+                    "startOffset": 4095,
+                    "endColumn": 50,
+                    "endOffset": 4141
+                },
+                "from": {
+                    "file": "/home/element/soft_keyboard/src/main/res/values-pt-rBR/strings.xml",
+                    "position": {
+                        "startLine": 73,
+                        "startColumn": 4,
+                        "startOffset": 4667,
+                        "endColumn": 50,
+                        "endOffset": 4713
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 64,
+                    "startColumn": 4,
+                    "startOffset": 4146,
+                    "endColumn": 55,
+                    "endOffset": 4197
+                },
+                "from": {
+                    "file": "/home/element/soft_keyboard/src/main/res/values-pt-rBR/strings.xml",
+                    "position": {
+                        "startLine": 74,
+                        "startColumn": 4,
+                        "startOffset": 4718,
+                        "endColumn": 55,
+                        "endOffset": 4769
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 65,
+                    "startColumn": 4,
+                    "startOffset": 4202,
+                    "endColumn": 54,
+                    "endOffset": 4252
+                },
+                "from": {
+                    "file": "/home/element/soft_keyboard/src/main/res/values-pt-rBR/strings.xml",
+                    "position": {
+                        "startLine": 76,
+                        "startColumn": 4,
+                        "startOffset": 4824,
+                        "endColumn": 54,
+                        "endOffset": 4874
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 66,
+                    "startColumn": 4,
+                    "startOffset": 4257,
+                    "endColumn": 49,
+                    "endOffset": 4302
+                },
+                "from": {
+                    "file": "/home/element/soft_keyboard/src/main/res/values-pt-rBR/strings.xml",
+                    "position": {
+                        "startLine": 75,
+                        "startColumn": 4,
+                        "startOffset": 4774,
+                        "endColumn": 49,
+                        "endOffset": 4819
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 67,
+                    "startColumn": 4,
+                    "startOffset": 4307,
+                    "endColumn": 45,
+                    "endOffset": 4348
+                },
+                "from": {
+                    "file": "/home/element/soft_keyboard/src/main/res/values-pt-rBR/strings.xml",
+                    "position": {
+                        "startLine": 77,
+                        "startColumn": 4,
+                        "startOffset": 4879,
+                        "endColumn": 45,
+                        "endOffset": 4920
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 68,
+                    "startColumn": 4,
+                    "startOffset": 4353,
+                    "endColumn": 49,
+                    "endOffset": 4398
+                },
+                "from": {
+                    "file": "/home/element/soft_keyboard/src/main/res/values-pt-rBR/strings.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 432,
+                        "endColumn": 49,
+                        "endOffset": 477
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 69,
+                    "startColumn": 4,
+                    "startOffset": 4403,
+                    "endColumn": 78,
+                    "endOffset": 4477
+                },
+                "from": {
+                    "file": "/home/element/soft_keyboard/src/main/res/values-pt-rBR/strings.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 4,
+                        "startOffset": 1232,
+                        "endColumn": 78,
+                        "endOffset": 1306
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 70,
+                    "startColumn": 4,
+                    "startOffset": 4482,
+                    "endColumn": 62,
+                    "endOffset": 4540
+                },
+                "from": {
+                    "file": "/home/element/soft_keyboard/src/main/res/values-pt-rBR/strings.xml",
+                    "position": {
+                        "startLine": 22,
+                        "startColumn": 4,
+                        "startOffset": 1311,
+                        "endColumn": 62,
+                        "endOffset": 1369
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 71,
+                    "startColumn": 4,
+                    "startOffset": 4545,
+                    "endColumn": 55,
+                    "endOffset": 4596
+                },
+                "from": {
+                    "file": "/home/element/soft_keyboard/src/main/res/values-pt-rBR/strings.xml",
+                    "position": {
+                        "startLine": 66,
+                        "startColumn": 4,
+                        "startOffset": 4203,
+                        "endColumn": 55,
+                        "endOffset": 4254
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 72,
+                    "startColumn": 4,
+                    "startOffset": 4601,
+                    "endColumn": 74,
+                    "endOffset": 4671
+                },
+                "from": {
+                    "file": "/home/element/soft_keyboard/src/main/res/values-pt-rBR/strings.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 482,
+                        "endColumn": 74,
+                        "endOffset": 552
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 73,
+                    "startColumn": 4,
+                    "startOffset": 4676,
+                    "endColumn": 75,
+                    "endOffset": 4747
+                },
+                "from": {
+                    "file": "/home/element/soft_keyboard/src/main/res/values-pt-rBR/strings.xml",
+                    "position": {
+                        "startLine": 80,
+                        "startColumn": 4,
+                        "startOffset": 5032,
+                        "endColumn": 75,
+                        "endOffset": 5103
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 74,
+                    "startColumn": 4,
+                    "startOffset": 4752,
+                    "endColumn": 67,
+                    "endOffset": 4815
+                },
+                "from": {
+                    "file": "/home/element/soft_keyboard/src/main/res/values-pt-rBR/strings.xml",
+                    "position": {
+                        "startLine": 88,
+                        "startColumn": 4,
+                        "startOffset": 5580,
+                        "endColumn": 67,
+                        "endOffset": 5643
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 75,
+                    "startColumn": 4,
+                    "startOffset": 4820,
+                    "endColumn": 75,
+                    "endOffset": 4891
+                },
+                "from": {
+                    "file": "/home/element/soft_keyboard/src/main/res/values-pt-rBR/strings.xml",
+                    "position": {
+                        "startLine": 87,
+                        "startColumn": 4,
+                        "startOffset": 5504,
+                        "endColumn": 75,
+                        "endOffset": 5575
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 76,
+                    "startColumn": 4,
+                    "startOffset": 4896,
+                    "endColumn": 67,
+                    "endOffset": 4959
+                },
+                "from": {
+                    "file": "/home/element/soft_keyboard/src/main/res/values-pt-rBR/strings.xml",
+                    "position": {
+                        "startLine": 92,
+                        "startColumn": 4,
+                        "startOffset": 5860,
+                        "endColumn": 67,
+                        "endOffset": 5923
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 77,
+                    "startColumn": 4,
+                    "startOffset": 4964,
+                    "endColumn": 69,
+                    "endOffset": 5029
+                },
+                "from": {
+                    "file": "/home/element/soft_keyboard/src/main/res/values-pt-rBR/strings.xml",
+                    "position": {
+                        "startLine": 89,
+                        "startColumn": 4,
+                        "startOffset": 5648,
+                        "endColumn": 69,
+                        "endOffset": 5713
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 78,
+                    "startColumn": 4,
+                    "startOffset": 5034,
+                    "endColumn": 66,
+                    "endOffset": 5096
+                },
+                "from": {
+                    "file": "/home/element/soft_keyboard/src/main/res/values-pt-rBR/strings.xml",
+                    "position": {
+                        "startLine": 90,
+                        "startColumn": 4,
+                        "startOffset": 5718,
+                        "endColumn": 66,
+                        "endOffset": 5780
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 79,
+                    "startColumn": 4,
+                    "startOffset": 5101,
+                    "endColumn": 74,
+                    "endOffset": 5171
+                },
+                "from": {
+                    "file": "/home/element/soft_keyboard/src/main/res/values-pt-rBR/strings.xml",
+                    "position": {
+                        "startLine": 91,
+                        "startColumn": 4,
+                        "startOffset": 5785,
+                        "endColumn": 74,
+                        "endOffset": 5855
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 80,
+                    "startColumn": 4,
+                    "startOffset": 5176,
+                    "endColumn": 65,
+                    "endOffset": 5237
+                },
+                "from": {
+                    "file": "/home/element/soft_keyboard/src/main/res/values-pt-rBR/strings.xml",
+                    "position": {
+                        "startLine": 83,
+                        "startColumn": 4,
+                        "startOffset": 5232,
+                        "endColumn": 65,
+                        "endOffset": 5293
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 81,
+                    "startColumn": 4,
+                    "startOffset": 5242,
+                    "endColumn": 73,
+                    "endOffset": 5311
+                },
+                "from": {
+                    "file": "/home/element/soft_keyboard/src/main/res/values-pt-rBR/strings.xml",
+                    "position": {
+                        "startLine": 82,
+                        "startColumn": 4,
+                        "startOffset": 5158,
+                        "endColumn": 73,
+                        "endOffset": 5227
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 82,
+                    "startColumn": 4,
+                    "startOffset": 5316,
+                    "endColumn": 67,
+                    "endOffset": 5379
+                },
+                "from": {
+                    "file": "/home/element/soft_keyboard/src/main/res/values-pt-rBR/strings.xml",
+                    "position": {
+                        "startLine": 84,
+                        "startColumn": 4,
+                        "startOffset": 5298,
+                        "endColumn": 67,
+                        "endOffset": 5361
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 83,
+                    "startColumn": 4,
+                    "startOffset": 5384,
+                    "endColumn": 64,
+                    "endOffset": 5444
+                },
+                "from": {
+                    "file": "/home/element/soft_keyboard/src/main/res/values-pt-rBR/strings.xml",
+                    "position": {
+                        "startLine": 85,
+                        "startColumn": 4,
+                        "startOffset": 5366,
+                        "endColumn": 64,
+                        "endOffset": 5426
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 84,
+                    "startColumn": 4,
+                    "startOffset": 5449,
+                    "endColumn": 72,
+                    "endOffset": 5517
+                },
+                "from": {
+                    "file": "/home/element/soft_keyboard/src/main/res/values-pt-rBR/strings.xml",
+                    "position": {
+                        "startLine": 86,
+                        "startColumn": 4,
+                        "startOffset": 5431,
+                        "endColumn": 72,
+                        "endOffset": 5499
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 85,
+                    "startColumn": 4,
+                    "startOffset": 5522,
+                    "endColumn": 62,
+                    "endOffset": 5580
+                },
+                "from": {
+                    "file": "/home/element/soft_keyboard/src/main/res/values-pt-rBR/strings.xml",
+                    "position": {
+                        "startLine": 46,
+                        "startColumn": 4,
+                        "startOffset": 3053,
+                        "endColumn": 62,
+                        "endOffset": 3111
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 86,
+                    "startColumn": 4,
+                    "startOffset": 5585,
+                    "endColumn": 65,
+                    "endOffset": 5646
+                },
+                "from": {
+                    "file": "/home/element/soft_keyboard/src/main/res/values-pt-rBR/strings.xml",
+                    "position": {
+                        "startLine": 45,
+                        "startColumn": 4,
+                        "startOffset": 2987,
+                        "endColumn": 65,
+                        "endOffset": 3048
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 87,
+                    "startColumn": 4,
+                    "startOffset": 5651,
+                    "endColumn": 63,
+                    "endOffset": 5710
+                },
+                "from": {
+                    "file": "/home/element/soft_keyboard/src/main/res/values-pt-rBR/strings.xml",
+                    "position": {
+                        "startLine": 44,
+                        "startColumn": 4,
+                        "startOffset": 2923,
+                        "endColumn": 63,
+                        "endOffset": 2982
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 88,
+                    "startColumn": 4,
+                    "startOffset": 5715,
+                    "endColumn": 73,
+                    "endOffset": 5784
+                },
+                "from": {
+                    "file": "/home/element/soft_keyboard/src/main/res/values-pt-rBR/strings.xml",
+                    "position": {
+                        "startLine": 47,
+                        "startColumn": 4,
+                        "startOffset": 3116,
+                        "endColumn": 73,
+                        "endOffset": 3185
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 89,
+                    "startColumn": 4,
+                    "startOffset": 5789,
+                    "endColumn": 74,
+                    "endOffset": 5859
+                },
+                "from": {
+                    "file": "/home/element/soft_keyboard/src/main/res/values-pt-rBR/strings.xml",
+                    "position": {
+                        "startLine": 43,
+                        "startColumn": 4,
+                        "startOffset": 2848,
+                        "endColumn": 74,
+                        "endOffset": 2918
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 90,
+                    "startColumn": 4,
+                    "startOffset": 5864,
+                    "endColumn": 63,
+                    "endOffset": 5923
+                },
+                "from": {
+                    "file": "/home/element/soft_keyboard/src/main/res/values-pt-rBR/strings.xml",
+                    "position": {
+                        "startLine": 41,
+                        "startColumn": 4,
+                        "startOffset": 2709,
+                        "endColumn": 63,
+                        "endOffset": 2768
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 91,
+                    "startColumn": 4,
+                    "startOffset": 5928,
+                    "endColumn": 65,
+                    "endOffset": 5989
+                },
+                "from": {
+                    "file": "/home/element/soft_keyboard/src/main/res/values-pt-rBR/strings.xml",
+                    "position": {
+                        "startLine": 40,
+                        "startColumn": 4,
+                        "startOffset": 2643,
+                        "endColumn": 65,
+                        "endOffset": 2704
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 92,
+                    "startColumn": 4,
+                    "startOffset": 5994,
+                    "endColumn": 62,
+                    "endOffset": 6052
+                },
+                "from": {
+                    "file": "/home/element/soft_keyboard/src/main/res/values-pt-rBR/strings.xml",
+                    "position": {
+                        "startLine": 39,
+                        "startColumn": 4,
+                        "startOffset": 2580,
+                        "endColumn": 62,
+                        "endOffset": 2638
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 93,
+                    "startColumn": 4,
+                    "startOffset": 6057,
+                    "endColumn": 74,
+                    "endOffset": 6127
+                },
+                "from": {
+                    "file": "/home/element/soft_keyboard/src/main/res/values-pt-rBR/strings.xml",
+                    "position": {
+                        "startLine": 42,
+                        "startColumn": 4,
+                        "startOffset": 2773,
+                        "endColumn": 74,
+                        "endOffset": 2843
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 94,
+                    "startColumn": 4,
+                    "startOffset": 6132,
+                    "endColumn": 73,
+                    "endOffset": 6201
+                },
+                "from": {
+                    "file": "/home/element/soft_keyboard/src/main/res/values-pt-rBR/strings.xml",
+                    "position": {
+                        "startLine": 38,
+                        "startColumn": 4,
+                        "startOffset": 2506,
+                        "endColumn": 73,
+                        "endOffset": 2575
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 95,
+                    "startColumn": 4,
+                    "startOffset": 6206,
+                    "endColumn": 60,
+                    "endOffset": 6262
+                },
+                "from": {
+                    "file": "/home/element/soft_keyboard/src/main/res/values-pt-rBR/strings.xml",
+                    "position": {
+                        "startLine": 28,
+                        "startColumn": 4,
+                        "startOffset": 1761,
+                        "endColumn": 60,
+                        "endOffset": 1817
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 96,
+                    "startColumn": 4,
+                    "startOffset": 6267,
+                    "endColumn": 80,
+                    "endOffset": 6343
+                },
+                "from": {
+                    "file": "/home/element/soft_keyboard/src/main/res/values-pt-rBR/strings.xml",
+                    "position": {
+                        "startLine": 29,
+                        "startColumn": 4,
+                        "startOffset": 1822,
+                        "endColumn": 80,
+                        "endOffset": 1898
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 97,
+                    "startColumn": 4,
+                    "startOffset": 6348,
+                    "endColumn": 76,
+                    "endOffset": 6420
+                },
+                "from": {
+                    "file": "/home/element/soft_keyboard/src/main/res/values-pt-rBR/strings.xml",
+                    "position": {
+                        "startLine": 48,
+                        "startColumn": 4,
+                        "startOffset": 3190,
+                        "endColumn": 76,
+                        "endOffset": 3262
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 98,
+                    "startColumn": 4,
+                    "startOffset": 6425,
+                    "endColumn": 100,
+                    "endOffset": 6521
+                },
+                "from": {
+                    "file": "/home/element/soft_keyboard/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/values-pt-rBR/values-pt-rBR.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 4,
+                        "startOffset": 2048,
+                        "endColumn": 100,
+                        "endOffset": 2144
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 99,
+                    "startColumn": 4,
+                    "startOffset": 6526,
+                    "endColumn": 66,
+                    "endOffset": 6588
+                },
+                "from": {
+                    "file": "/home/element/soft_keyboard/src/main/res/values-pt-rBR/strings.xml",
+                    "position": {
+                        "startLine": 33,
+                        "startColumn": 4,
+                        "startOffset": 2106,
+                        "endColumn": 66,
+                        "endOffset": 2168
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 100,
+                    "startColumn": 4,
+                    "startOffset": 6593,
+                    "endColumn": 81,
+                    "endOffset": 6670
+                },
+                "from": {
+                    "file": "/home/element/soft_keyboard/src/main/res/values-pt-rBR/strings.xml",
+                    "position": {
+                        "startLine": 35,
+                        "startColumn": 4,
+                        "startOffset": 2252,
+                        "endColumn": 81,
+                        "endOffset": 2329
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 101,
+                    "startColumn": 4,
+                    "startOffset": 6675,
+                    "endColumn": 86,
+                    "endOffset": 6757
+                },
+                "from": {
+                    "file": "/home/element/soft_keyboard/src/main/res/values-pt-rBR/strings.xml",
+                    "position": {
+                        "startLine": 36,
+                        "startColumn": 4,
+                        "startOffset": 2334,
+                        "endColumn": 86,
+                        "endOffset": 2416
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 102,
+                    "startColumn": 4,
+                    "startOffset": 6762,
+                    "endColumn": 84,
+                    "endOffset": 6842
+                },
+                "from": {
+                    "file": "/home/element/soft_keyboard/src/main/res/values-pt-rBR/strings.xml",
+                    "position": {
+                        "startLine": 37,
+                        "startColumn": 4,
+                        "startOffset": 2421,
+                        "endColumn": 84,
+                        "endOffset": 2501
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 103,
+                    "startColumn": 4,
+                    "startOffset": 6847,
+                    "endColumn": 78,
+                    "endOffset": 6921
+                },
+                "from": {
+                    "file": "/home/element/soft_keyboard/src/main/res/values-pt-rBR/strings.xml",
+                    "position": {
+                        "startLine": 34,
+                        "startColumn": 4,
+                        "startOffset": 2173,
+                        "endColumn": 78,
+                        "endOffset": 2247
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 104,
+                    "startColumn": 4,
+                    "startOffset": 6926,
+                    "endColumn": 63,
+                    "endOffset": 6985
+                },
+                "from": {
+                    "file": "/home/element/soft_keyboard/src/main/res/values-pt-rBR/strings.xml",
+                    "position": {
+                        "startLine": 31,
+                        "startColumn": 4,
+                        "startOffset": 1984,
+                        "endColumn": 63,
+                        "endOffset": 2043
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 105,
+                    "startColumn": 4,
+                    "startOffset": 6990,
+                    "endColumn": 57,
+                    "endOffset": 7043
+                },
+                "from": {
+                    "file": "/home/element/soft_keyboard/src/main/res/values-pt-rBR/strings.xml",
+                    "position": {
+                        "startLine": 32,
+                        "startColumn": 4,
+                        "startOffset": 2048,
+                        "endColumn": 57,
+                        "endOffset": 2101
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 106,
+                    "startColumn": 4,
+                    "startOffset": 7048,
+                    "endColumn": 83,
+                    "endOffset": 7127
+                },
+                "from": {
+                    "file": "/home/element/soft_keyboard/src/main/res/values-pt-rBR/strings.xml",
+                    "position": {
+                        "startLine": 59,
+                        "startColumn": 4,
+                        "startOffset": 3906,
+                        "endColumn": 83,
+                        "endOffset": 3985
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 107,
+                    "startColumn": 4,
+                    "startOffset": 7132,
+                    "endColumn": 60,
+                    "endOffset": 7188
+                },
+                "from": {
+                    "file": "/home/element/soft_keyboard/src/main/res/values-pt-rBR/strings.xml",
+                    "position": {
+                        "startLine": 58,
+                        "startColumn": 4,
+                        "startOffset": 3845,
+                        "endColumn": 60,
+                        "endOffset": 3901
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 108,
+                    "startColumn": 4,
+                    "startOffset": 7193,
+                    "endColumn": 59,
+                    "endOffset": 7248
+                },
+                "from": {
+                    "file": "/home/element/soft_keyboard/src/main/res/values-pt-rBR/strings.xml",
+                    "position": {
+                        "startLine": 60,
+                        "startColumn": 4,
+                        "startOffset": 3990,
+                        "endColumn": 59,
+                        "endOffset": 4045
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 109,
+                    "startColumn": 4,
+                    "startOffset": 7253,
+                    "endColumn": 57,
+                    "endOffset": 7306
+                },
+                "from": {
+                    "file": "/home/element/soft_keyboard/src/main/res/values-pt-rBR/strings.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 691,
+                        "endColumn": 57,
+                        "endOffset": 744
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 110,
+                    "startColumn": 4,
+                    "startOffset": 7311,
+                    "endColumn": 69,
+                    "endOffset": 7376
+                },
+                "from": {
+                    "file": "/home/element/soft_keyboard/src/main/res/values-pt-rBR/strings.xml",
+                    "position": {
+                        "startLine": 54,
+                        "startColumn": 4,
+                        "startOffset": 3545,
+                        "endColumn": 69,
+                        "endOffset": 3610
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 111,
+                    "startColumn": 4,
+                    "startOffset": 7381,
+                    "endColumn": 74,
+                    "endOffset": 7451
+                },
+                "from": {
+                    "file": "/home/element/soft_keyboard/src/main/res/values-pt-rBR/strings.xml",
+                    "position": {
+                        "startLine": 55,
+                        "startColumn": 4,
+                        "startOffset": 3615,
+                        "endColumn": 74,
+                        "endOffset": 3685
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 112,
+                    "startColumn": 4,
+                    "startOffset": 7456,
+                    "endColumn": 56,
+                    "endOffset": 7508
+                },
+                "from": {
+                    "file": "/home/element/soft_keyboard/src/main/res/values-pt-rBR/strings.xml",
+                    "position": {
+                        "startLine": 57,
+                        "startColumn": 4,
+                        "startOffset": 3788,
+                        "endColumn": 56,
+                        "endOffset": 3840
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 113,
+                    "startColumn": 4,
+                    "startOffset": 7513,
+                    "endColumn": 97,
+                    "endOffset": 7606
+                },
+                "from": {
+                    "file": "/home/element/soft_keyboard/src/main/res/values-pt-rBR/strings.xml",
+                    "position": {
+                        "startLine": 56,
+                        "startColumn": 4,
+                        "startOffset": 3690,
+                        "endColumn": 97,
+                        "endOffset": 3783
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 114,
+                    "startColumn": 4,
+                    "startOffset": 7611,
+                    "endColumn": 80,
+                    "endOffset": 7687
+                },
+                "from": {
+                    "file": "/home/element/soft_keyboard/src/main/res/values-pt-rBR/strings.xml",
+                    "position": {
+                        "startLine": 30,
+                        "startColumn": 4,
+                        "startOffset": 1903,
+                        "endColumn": 80,
+                        "endOffset": 1979
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 115,
+                    "startColumn": 4,
+                    "startOffset": 7692,
+                    "endColumn": 69,
+                    "endOffset": 7757
+                },
+                "from": {
+                    "file": "/home/element/soft_keyboard/src/main/res/values-pt-rBR/strings.xml",
+                    "position": {
+                        "startLine": 49,
+                        "startColumn": 4,
+                        "startOffset": 3267,
+                        "endColumn": 69,
+                        "endOffset": 3332
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 116,
+                    "startColumn": 4,
+                    "startOffset": 7762,
+                    "endColumn": 52,
+                    "endOffset": 7810
+                },
+                "from": {
+                    "file": "/home/element/soft_keyboard/src/main/res/values-pt-rBR/strings.xml",
+                    "position": {
+                        "startLine": 53,
+                        "startColumn": 4,
+                        "startOffset": 3492,
+                        "endColumn": 52,
+                        "endOffset": 3540
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 117,
+                    "startColumn": 4,
+                    "startOffset": 7815,
+                    "endLine": 119,
+                    "endColumn": 13,
+                    "endOffset": 7965
+                },
+                "from": {
+                    "file": "/home/element/soft_keyboard/src/main/res/values-pt-rBR/strings.xml",
+                    "position": {
+                        "startLine": 50,
+                        "startColumn": 4,
+                        "startOffset": 3337,
+                        "endLine": 52,
+                        "endColumn": 13,
+                        "endOffset": 3487
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 120,
+                    "startColumn": 4,
+                    "startOffset": 7970,
+                    "endColumn": 63,
+                    "endOffset": 8029
+                },
+                "from": {
+                    "file": "/home/element/soft_keyboard/src/main/res/values-pt-rBR/strings.xml",
+                    "position": {
+                        "startLine": 95,
+                        "startColumn": 4,
+                        "startOffset": 6072,
+                        "endColumn": 63,
+                        "endOffset": 6131
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 121,
+                    "startColumn": 4,
+                    "startOffset": 8034,
+                    "endLine": 123,
+                    "endColumn": 13,
+                    "endOffset": 8204
+                },
+                "from": {
+                    "file": "/home/element/soft_keyboard/src/main/res/values-pt-rBR/strings.xml",
+                    "position": {
+                        "startLine": 96,
+                        "startColumn": 4,
+                        "startOffset": 6136,
+                        "endLine": 98,
+                        "endColumn": 13,
+                        "endOffset": 6306
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 124,
+                    "startColumn": 4,
+                    "startOffset": 8209,
+                    "endColumn": 77,
+                    "endOffset": 8282
+                },
+                "from": {
+                    "file": "/home/element/soft_keyboard/src/main/res/values-pt-rBR/strings.xml",
+                    "position": {
+                        "startLine": 94,
+                        "startColumn": 4,
+                        "startOffset": 5994,
+                        "endColumn": 77,
+                        "endOffset": 6067
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 125,
+                    "startColumn": 4,
+                    "startOffset": 8287,
+                    "endColumn": 65,
+                    "endOffset": 8348
+                },
+                "from": {
+                    "file": "/home/element/soft_keyboard/src/main/res/values-pt-rBR/strings.xml",
+                    "position": {
+                        "startLine": 93,
+                        "startColumn": 4,
+                        "startOffset": 5928,
+                        "endColumn": 65,
+                        "endOffset": 5989
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 126,
+                    "startColumn": 4,
+                    "startOffset": 8353,
+                    "endColumn": 90,
+                    "endOffset": 8439
+                },
+                "from": {
+                    "file": "/home/element/soft_keyboard/src/main/res/values-pt-rBR/strings.xml",
+                    "position": {
+                        "startLine": 27,
+                        "startColumn": 4,
+                        "startOffset": 1670,
+                        "endColumn": 90,
+                        "endOffset": 1756
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 127,
+                    "startColumn": 4,
+                    "startOffset": 8444,
+                    "endColumn": 97,
+                    "endOffset": 8537
+                },
+                "from": {
+                    "file": "/home/element/soft_keyboard/src/main/res/values-pt-rBR/strings.xml",
+                    "position": {
+                        "startLine": 26,
+                        "startColumn": 4,
+                        "startOffset": 1572,
+                        "endColumn": 97,
+                        "endOffset": 1665
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 128,
+                    "startColumn": 4,
+                    "startOffset": 8542,
+                    "endColumn": 81,
+                    "endOffset": 8619
+                },
+                "from": {
+                    "file": "/home/element/soft_keyboard/src/main/res/values-pt-rBR/strings.xml",
+                    "position": {
+                        "startLine": 25,
+                        "startColumn": 4,
+                        "startOffset": 1490,
+                        "endColumn": 81,
+                        "endOffset": 1567
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 129,
+                    "startColumn": 4,
+                    "startOffset": 8624,
+                    "endColumn": 79,
+                    "endOffset": 8699
+                },
+                "from": {
+                    "file": "/home/element/soft_keyboard/src/main/res/values-pt-rBR/strings.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 1087,
+                        "endColumn": 79,
+                        "endOffset": 1162
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 130,
+                    "startColumn": 4,
+                    "startOffset": 8704,
+                    "endColumn": 77,
+                    "endOffset": 8777
+                },
+                "from": {
+                    "file": "/home/element/soft_keyboard/src/main/res/values-pt-rBR/strings.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 1009,
+                        "endColumn": 77,
+                        "endOffset": 1082
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 131,
+                    "startColumn": 4,
+                    "startOffset": 8782,
+                    "endLine": 133,
+                    "endColumn": 13,
+                    "endOffset": 8948
+                },
+                "from": {
+                    "file": "/home/element/soft_keyboard/src/main/res/values-pt-rBR/strings.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 838,
+                        "endLine": 17,
+                        "endColumn": 13,
+                        "endOffset": 1004
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 134,
+                    "startColumn": 4,
+                    "startOffset": 8953,
+                    "endColumn": 88,
+                    "endOffset": 9037
+                },
+                "from": {
+                    "file": "/home/element/soft_keyboard/src/main/res/values-pt-rBR/strings.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 749,
+                        "endColumn": 88,
+                        "endOffset": 833
+                    }
+                }
+            }
+        ]
+    }
+]

@@ -1,0 +1,444 @@
+[
+    {
+        "outputFile": "/home/element/soft_keyboard/build/intermediates/res/merged/debug/values-xlarge-land-v4/values-xlarge-land-v4.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 63,
+                    "endOffset": 114
+                },
+                "from": {
+                    "file": "/home/element/soft_keyboard/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/values-xlarge-land-v4/values-xlarge-land-v4.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 63,
+                        "endOffset": 114
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 119,
+                    "endColumn": 50,
+                    "endOffset": 165
+                },
+                "from": {
+                    "file": "/home/element/soft_keyboard/src/main/res/values-xlarge-land/dimens.xml",
+                    "position": {
+                        "startLine": 26,
+                        "startColumn": 4,
+                        "startOffset": 886,
+                        "endColumn": 50,
+                        "endOffset": 932
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 170,
+                    "endColumn": 45,
+                    "endOffset": 211
+                },
+                "from": {
+                    "file": "/home/element/soft_keyboard/src/main/res/values-xlarge-land/dimens.xml",
+                    "position": {
+                        "startLine": 25,
+                        "startColumn": 4,
+                        "startOffset": 840,
+                        "endColumn": 45,
+                        "endOffset": 881
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 216,
+                    "endColumn": 50,
+                    "endOffset": 262
+                },
+                "from": {
+                    "file": "/home/element/soft_keyboard/src/main/res/values-xlarge-land/dimens.xml",
+                    "position": {
+                        "startLine": 27,
+                        "startColumn": 4,
+                        "startOffset": 937,
+                        "endColumn": 50,
+                        "endOffset": 983
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 267,
+                    "endColumn": 52,
+                    "endOffset": 315
+                },
+                "from": {
+                    "file": "/home/element/soft_keyboard/src/main/res/values-xlarge-land/dimens.xml",
+                    "position": {
+                        "startLine": 42,
+                        "startColumn": 4,
+                        "startOffset": 1536,
+                        "endColumn": 52,
+                        "endOffset": 1584
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 320,
+                    "endColumn": 54,
+                    "endOffset": 370
+                },
+                "from": {
+                    "file": "/home/element/soft_keyboard/src/main/res/values-xlarge-land/dimens.xml",
+                    "position": {
+                        "startLine": 41,
+                        "startColumn": 4,
+                        "startOffset": 1481,
+                        "endColumn": 54,
+                        "endOffset": 1531
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 375,
+                    "endColumn": 55,
+                    "endOffset": 426
+                },
+                "from": {
+                    "file": "/home/element/soft_keyboard/src/main/res/values-xlarge-land/dimens.xml",
+                    "position": {
+                        "startLine": 22,
+                        "startColumn": 4,
+                        "startOffset": 727,
+                        "endColumn": 55,
+                        "endOffset": 778
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 431,
+                    "endColumn": 50,
+                    "endOffset": 477
+                },
+                "from": {
+                    "file": "/home/element/soft_keyboard/src/main/res/values-xlarge-land/dimens.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 4,
+                        "startOffset": 676,
+                        "endColumn": 50,
+                        "endOffset": 722
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 482,
+                    "endColumn": 57,
+                    "endOffset": 535
+                },
+                "from": {
+                    "file": "/home/element/soft_keyboard/src/main/res/values-xlarge-land/dimens.xml",
+                    "position": {
+                        "startLine": 30,
+                        "startColumn": 4,
+                        "startOffset": 1045,
+                        "endColumn": 57,
+                        "endOffset": 1098
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 540,
+                    "endColumn": 55,
+                    "endOffset": 591
+                },
+                "from": {
+                    "file": "/home/element/soft_keyboard/src/main/res/values-xlarge-land/dimens.xml",
+                    "position": {
+                        "startLine": 23,
+                        "startColumn": 4,
+                        "startOffset": 783,
+                        "endColumn": 55,
+                        "endOffset": 834
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 596,
+                    "endColumn": 55,
+                    "endOffset": 647
+                },
+                "from": {
+                    "file": "/home/element/soft_keyboard/src/main/res/values-xlarge-land/dimens.xml",
+                    "position": {
+                        "startLine": 29,
+                        "startColumn": 4,
+                        "startOffset": 989,
+                        "endColumn": 55,
+                        "endOffset": 1040
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 652,
+                    "endColumn": 59,
+                    "endOffset": 707
+                },
+                "from": {
+                    "file": "/home/element/soft_keyboard/src/main/res/values-xlarge-land/dimens.xml",
+                    "position": {
+                        "startLine": 48,
+                        "startColumn": 4,
+                        "startOffset": 1753,
+                        "endColumn": 59,
+                        "endOffset": 1808
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 712,
+                    "endColumn": 58,
+                    "endOffset": 766
+                },
+                "from": {
+                    "file": "/home/element/soft_keyboard/src/main/res/values-xlarge-land/dimens.xml",
+                    "position": {
+                        "startLine": 50,
+                        "startColumn": 4,
+                        "startOffset": 1859,
+                        "endColumn": 58,
+                        "endOffset": 1913
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 771,
+                    "endColumn": 50,
+                    "endOffset": 817
+                },
+                "from": {
+                    "file": "/home/element/soft_keyboard/src/main/res/values-xlarge-land/dimens.xml",
+                    "position": {
+                        "startLine": 37,
+                        "startColumn": 4,
+                        "startOffset": 1373,
+                        "endColumn": 50,
+                        "endOffset": 1419
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 822,
+                    "endColumn": 44,
+                    "endOffset": 862
+                },
+                "from": {
+                    "file": "/home/element/soft_keyboard/src/main/res/values-xlarge-land/dimens.xml",
+                    "position": {
+                        "startLine": 34,
+                        "startColumn": 4,
+                        "startOffset": 1224,
+                        "endColumn": 44,
+                        "endOffset": 1264
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 867,
+                    "endColumn": 54,
+                    "endOffset": 917
+                },
+                "from": {
+                    "file": "/home/element/soft_keyboard/src/main/res/values-xlarge-land/dimens.xml",
+                    "position": {
+                        "startLine": 39,
+                        "startColumn": 4,
+                        "startOffset": 1425,
+                        "endColumn": 54,
+                        "endOffset": 1475
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 922,
+                    "endColumn": 53,
+                    "endOffset": 971
+                },
+                "from": {
+                    "file": "/home/element/soft_keyboard/src/main/res/values-xlarge-land/dimens.xml",
+                    "position": {
+                        "startLine": 36,
+                        "startColumn": 4,
+                        "startOffset": 1319,
+                        "endColumn": 53,
+                        "endOffset": 1368
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 19,
+                    "startColumn": 4,
+                    "startOffset": 976,
+                    "endColumn": 49,
+                    "endOffset": 1021
+                },
+                "from": {
+                    "file": "/home/element/soft_keyboard/src/main/res/values-xlarge-land/dimens.xml",
+                    "position": {
+                        "startLine": 35,
+                        "startColumn": 4,
+                        "startOffset": 1269,
+                        "endColumn": 49,
+                        "endOffset": 1314
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 20,
+                    "startColumn": 4,
+                    "startOffset": 1026,
+                    "endColumn": 60,
+                    "endOffset": 1082
+                },
+                "from": {
+                    "file": "/home/element/soft_keyboard/src/main/res/values-xlarge-land/dimens.xml",
+                    "position": {
+                        "startLine": 31,
+                        "startColumn": 4,
+                        "startOffset": 1103,
+                        "endColumn": 60,
+                        "endOffset": 1159
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 21,
+                    "startColumn": 4,
+                    "startOffset": 1087,
+                    "endColumn": 58,
+                    "endOffset": 1141
+                },
+                "from": {
+                    "file": "/home/element/soft_keyboard/src/main/res/values-xlarge-land/dimens.xml",
+                    "position": {
+                        "startLine": 32,
+                        "startColumn": 4,
+                        "startOffset": 1164,
+                        "endColumn": 58,
+                        "endOffset": 1218
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 22,
+                    "startColumn": 4,
+                    "startOffset": 1146,
+                    "endColumn": 54,
+                    "endOffset": 1196
+                },
+                "from": {
+                    "file": "/home/element/soft_keyboard/src/main/res/values-xlarge-land/dimens.xml",
+                    "position": {
+                        "startLine": 44,
+                        "startColumn": 4,
+                        "startOffset": 1590,
+                        "endColumn": 54,
+                        "endOffset": 1640
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 23,
+                    "startColumn": 4,
+                    "startOffset": 1201,
+                    "endColumn": 59,
+                    "endOffset": 1256
+                },
+                "from": {
+                    "file": "/home/element/soft_keyboard/src/main/res/values-xlarge-land/dimens.xml",
+                    "position": {
+                        "startLine": 45,
+                        "startColumn": 4,
+                        "startOffset": 1645,
+                        "endColumn": 59,
+                        "endOffset": 1700
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 24,
+                    "startColumn": 4,
+                    "startOffset": 1261,
+                    "endColumn": 58,
+                    "endOffset": 1315
+                },
+                "from": {
+                    "file": "/home/element/soft_keyboard/src/main/res/values-xlarge-land/integers.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 58,
+                        "endOffset": 109
+                    }
+                }
+            }
+        ]
+    }
+]

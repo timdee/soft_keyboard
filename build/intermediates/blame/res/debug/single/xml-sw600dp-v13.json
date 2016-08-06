@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/home/element/soft_keyboard/build/intermediates/res/merged/debug/xml-sw600dp-v13/simple_phone.xml",
+        "source": "/home/element/soft_keyboard/src/main/res/xml-sw600dp/simple_phone.xml"
+    },
+    {
+        "merged": "/home/element/soft_keyboard/build/intermediates/res/merged/debug/xml-sw600dp-v13/simple_alt_numbers.xml",
+        "source": "/home/element/soft_keyboard/src/main/res/xml-sw600dp/simple_alt_numbers.xml"
+    },
+    {
+        "merged": "/home/element/soft_keyboard/build/intermediates/res/merged/debug/xml-sw600dp-v13/simple_numbers.xml",
+        "source": "/home/element/soft_keyboard/src/main/res/xml-sw600dp/simple_numbers.xml"
+    },
+    {
+        "merged": "/home/element/soft_keyboard/build/intermediates/res/merged/debug/xml-sw600dp-v13/simple_datetime.xml",
+        "source": "/home/element/soft_keyboard/src/main/res/xml-sw600dp/simple_datetime.xml"
+    }
+]

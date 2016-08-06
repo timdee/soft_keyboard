@@ -1,0 +1,314 @@
+[
+    {
+        "merged": "/home/element/soft_keyboard/build/intermediates/res/merged/debug/xml/ext_kbd_top_row_nav.xml",
+        "source": "/home/element/soft_keyboard/src/main/res/xml/ext_kbd_top_row_nav.xml"
+    },
+    {
+        "merged": "/home/element/soft_keyboard/build/intermediates/res/merged/debug/xml/simple_numbers.xml",
+        "source": "/home/element/soft_keyboard/src/main/res/xml/simple_numbers.xml"
+    },
+    {
+        "merged": "/home/element/soft_keyboard/build/intermediates/res/merged/debug/xml/prefs_quick_text_addons_prefs.xml",
+        "source": "/home/element/soft_keyboard/src/main/res/xml/prefs_quick_text_addons_prefs.xml"
+    },
+    {
+        "merged": "/home/element/soft_keyboard/build/intermediates/res/merged/debug/xml/prefs_keyboards.xml",
+        "source": "/home/element/soft_keyboard/src/main/res/xml/prefs_keyboards.xml"
+    },
+    {
+        "merged": "/home/element/soft_keyboard/build/intermediates/res/merged/debug/xml/qwerty_with_symbols.xml",
+        "source": "/home/element/soft_keyboard/src/main/res/xml/qwerty_with_symbols.xml"
+    },
+    {
+        "merged": "/home/element/soft_keyboard/build/intermediates/res/merged/debug/xml/simple_phone.xml",
+        "source": "/home/element/soft_keyboard/src/main/res/xml/simple_phone.xml"
+    },
+    {
+        "merged": "/home/element/soft_keyboard/build/intermediates/res/merged/debug/xml/prefs_dictionaries.xml",
+        "source": "/home/element/soft_keyboard/src/main/res/xml/prefs_dictionaries.xml"
+    },
+    {
+        "merged": "/home/element/soft_keyboard/build/intermediates/res/merged/debug/xml/popup_one_row.xml",
+        "source": "/home/element/soft_keyboard/src/main/res/xml/popup_one_row.xml"
+    },
+    {
+        "merged": "/home/element/soft_keyboard/build/intermediates/res/merged/debug/xml/keyboards.xml",
+        "source": "/home/element/soft_keyboard/src/main/res/xml/keyboards.xml"
+    },
+    {
+        "merged": "/home/element/soft_keyboard/build/intermediates/res/merged/debug/xml/popup_16keys_wxyz.xml",
+        "source": "/home/element/soft_keyboard/src/main/res/xml/popup_16keys_wxyz.xml"
+    },
+    {
+        "merged": "/home/element/soft_keyboard/build/intermediates/res/merged/debug/xml/prefs_bottom_row_addons.xml",
+        "source": "/home/element/soft_keyboard/src/main/res/xml/prefs_bottom_row_addons.xml"
+    },
+    {
+        "merged": "/home/element/soft_keyboard/build/intermediates/res/merged/debug/xml/prefs_addtional_language_prefs.xml",
+        "source": "/home/element/soft_keyboard/src/main/res/xml/prefs_addtional_language_prefs.xml"
+    },
+    {
+        "merged": "/home/element/soft_keyboard/build/intermediates/res/merged/debug/xml/quick_text_unicode_accessories.xml",
+        "source": "/home/element/soft_keyboard/src/main/res/xml/quick_text_unicode_accessories.xml"
+    },
+    {
+        "merged": "/home/element/soft_keyboard/build/intermediates/res/merged/debug/xml/symbols_16keys.xml",
+        "source": "/home/element/soft_keyboard/src/main/res/xml/symbols_16keys.xml"
+    },
+    {
+        "merged": "/home/element/soft_keyboard/build/intermediates/res/merged/debug/xml/popup_16keys_mno.xml",
+        "source": "/home/element/soft_keyboard/src/main/res/xml/popup_16keys_mno.xml"
+    },
+    {
+        "merged": "/home/element/soft_keyboard/build/intermediates/res/merged/debug/xml/popup_smileys.xml",
+        "source": "/home/element/soft_keyboard/src/main/res/xml/popup_smileys.xml"
+    },
+    {
+        "merged": "/home/element/soft_keyboard/build/intermediates/res/merged/debug/xml/quick_text_keys.xml",
+        "source": "/home/element/soft_keyboard/src/main/res/xml/quick_text_keys.xml"
+    },
+    {
+        "merged": "/home/element/soft_keyboard/build/intermediates/res/merged/debug/xml/prefs_language_tweaks.xml",
+        "source": "/home/element/soft_keyboard/src/main/res/xml/prefs_language_tweaks.xml"
+    },
+    {
+        "merged": "/home/element/soft_keyboard/build/intermediates/res/merged/debug/xml/extension_keyboards.xml",
+        "source": "/home/element/soft_keyboard/src/main/res/xml/extension_keyboards.xml"
+    },
+    {
+        "merged": "/home/element/soft_keyboard/build/intermediates/res/merged/debug/xml/quick_text_unicode_animals.xml",
+        "source": "/home/element/soft_keyboard/src/main/res/xml/quick_text_unicode_animals.xml"
+    },
+    {
+        "merged": "/home/element/soft_keyboard/build/intermediates/res/merged/debug/xml/ext_kbd_bottom_row_regular.xml",
+        "source": "/home/element/soft_keyboard/src/main/res/xml/ext_kbd_bottom_row_regular.xml"
+    },
+    {
+        "merged": "/home/element/soft_keyboard/build/intermediates/res/merged/debug/xml/prefs_gestures_prefs.xml",
+        "source": "/home/element/soft_keyboard/src/main/res/xml/prefs_gestures_prefs.xml"
+    },
+    {
+        "merged": "/home/element/soft_keyboard/build/intermediates/res/merged/debug/xml/simple_datetime.xml",
+        "source": "/home/element/soft_keyboard/src/main/res/xml/simple_datetime.xml"
+    },
+    {
+        "merged": "/home/element/soft_keyboard/build/intermediates/res/merged/debug/xml/popup_16keys_def.xml",
+        "source": "/home/element/soft_keyboard/src/main/res/xml/popup_16keys_def.xml"
+    },
+    {
+        "merged": "/home/element/soft_keyboard/build/intermediates/res/merged/debug/xml/prefs_ui_tweaks.xml",
+        "source": "/home/element/soft_keyboard/src/main/res/xml/prefs_ui_tweaks.xml"
+    },
+    {
+        "merged": "/home/element/soft_keyboard/build/intermediates/res/merged/debug/xml/popup_16keys_ghi.xml",
+        "source": "/home/element/soft_keyboard/src/main/res/xml/popup_16keys_ghi.xml"
+    },
+    {
+        "merged": "/home/element/soft_keyboard/build/intermediates/res/merged/debug/xml/en_autotext.xml",
+        "source": "/home/element/soft_keyboard/src/main/res/xml/en_autotext.xml"
+    },
+    {
+        "merged": "/home/element/soft_keyboard/build/intermediates/res/merged/debug/xml/method.xml",
+        "source": "/home/element/soft_keyboard/src/main/res/xml/method.xml"
+    },
+    {
+        "merged": "/home/element/soft_keyboard/build/intermediates/res/merged/debug/xml/quick_text_unicode_occasions.xml",
+        "source": "/home/element/soft_keyboard/src/main/res/xml/quick_text_unicode_occasions.xml"
+    },
+    {
+        "merged": "/home/element/soft_keyboard/build/intermediates/res/merged/debug/xml/ext_kbd_bottom_row_alt_with_mic.xml",
+        "source": "/home/element/soft_keyboard/src/main/res/xml/ext_kbd_bottom_row_alt_with_mic.xml"
+    },
+    {
+        "merged": "/home/element/soft_keyboard/build/intermediates/res/merged/debug/xml/symbols_alt.xml",
+        "source": "/home/element/soft_keyboard/src/main/res/xml/symbols_alt.xml"
+    },
+    {
+        "merged": "/home/element/soft_keyboard/build/intermediates/res/merged/debug/xml/popup_16keys_pqrs.xml",
+        "source": "/home/element/soft_keyboard/src/main/res/xml/popup_16keys_pqrs.xml"
+    },
+    {
+        "merged": "/home/element/soft_keyboard/build/intermediates/res/merged/debug/xml/prefs_addon_keyboard_theme_selector.xml",
+        "source": "/home/element/soft_keyboard/src/main/res/xml/prefs_addon_keyboard_theme_selector.xml"
+    },
+    {
+        "merged": "/home/element/soft_keyboard/build/intermediates/res/merged/debug/xml/popup_16keys_jkl.xml",
+        "source": "/home/element/soft_keyboard/src/main/res/xml/popup_16keys_jkl.xml"
+    },
+    {
+        "merged": "/home/element/soft_keyboard/build/intermediates/res/merged/debug/xml/quick_text_unicode_people.xml",
+        "source": "/home/element/soft_keyboard/src/main/res/xml/quick_text_unicode_people.xml"
+    },
+    {
+        "merged": "/home/element/soft_keyboard/build/intermediates/res/merged/debug/xml/symbols_alt_16keys.xml",
+        "source": "/home/element/soft_keyboard/src/main/res/xml/symbols_alt_16keys.xml"
+    },
+    {
+        "merged": "/home/element/soft_keyboard/build/intermediates/res/merged/debug/xml/ext_kbd_top_row_numbers_alt.xml",
+        "source": "/home/element/soft_keyboard/src/main/res/xml/ext_kbd_top_row_numbers_alt.xml"
+    },
+    {
+        "merged": "/home/element/soft_keyboard/build/intermediates/res/merged/debug/xml/quick_text_unicode_food.xml",
+        "source": "/home/element/soft_keyboard/src/main/res/xml/quick_text_unicode_food.xml"
+    },
+    {
+        "merged": "/home/element/soft_keyboard/build/intermediates/res/merged/debug/xml/ext_kbd_top_row_normal.xml",
+        "source": "/home/element/soft_keyboard/src/main/res/xml/ext_kbd_top_row_normal.xml"
+    },
+    {
+        "merged": "/home/element/soft_keyboard/build/intermediates/res/merged/debug/xml/qwerty.xml",
+        "source": "/home/element/soft_keyboard/src/main/res/xml/qwerty.xml"
+    },
+    {
+        "merged": "/home/element/soft_keyboard/build/intermediates/res/merged/debug/xml/popup_qwerty_e.xml",
+        "source": "/home/element/soft_keyboard/src/main/res/xml/popup_qwerty_e.xml"
+    },
+    {
+        "merged": "/home/element/soft_keyboard/build/intermediates/res/merged/debug/xml/simple_alt_numbers.xml",
+        "source": "/home/element/soft_keyboard/src/main/res/xml/simple_alt_numbers.xml"
+    },
+    {
+        "merged": "/home/element/soft_keyboard/build/intermediates/res/merged/debug/xml/popup_two_rows.xml",
+        "source": "/home/element/soft_keyboard/src/main/res/xml/popup_two_rows.xml"
+    },
+    {
+        "merged": "/home/element/soft_keyboard/build/intermediates/res/merged/debug/xml/quick_text_unicode_transport.xml",
+        "source": "/home/element/soft_keyboard/src/main/res/xml/quick_text_unicode_transport.xml"
+    },
+    {
+        "merged": "/home/element/soft_keyboard/build/intermediates/res/merged/debug/xml/ext_kbd_top_row_small.xml",
+        "source": "/home/element/soft_keyboard/src/main/res/xml/ext_kbd_top_row_small.xml"
+    },
+    {
+        "merged": "/home/element/soft_keyboard/build/intermediates/res/merged/debug/xml/popup_default_quick_text.xml",
+        "source": "/home/element/soft_keyboard/src/main/res/xml/popup_default_quick_text.xml"
+    },
+    {
+        "merged": "/home/element/soft_keyboard/build/intermediates/res/merged/debug/xml/popup_16keys_abc.xml",
+        "source": "/home/element/soft_keyboard/src/main/res/xml/popup_16keys_abc.xml"
+    },
+    {
+        "merged": "/home/element/soft_keyboard/build/intermediates/res/merged/debug/xml/quick_text_unicode_nature.xml",
+        "source": "/home/element/soft_keyboard/src/main/res/xml/quick_text_unicode_nature.xml"
+    },
+    {
+        "merged": "/home/element/soft_keyboard/build/intermediates/res/merged/debug/xml/popup_three_rows.xml",
+        "source": "/home/element/soft_keyboard/src/main/res/xml/popup_three_rows.xml"
+    },
+    {
+        "merged": "/home/element/soft_keyboard/build/intermediates/res/merged/debug/xml/ext_kbd_bottom_row_iphone.xml",
+        "source": "/home/element/soft_keyboard/src/main/res/xml/ext_kbd_bottom_row_iphone.xml"
+    },
+    {
+        "merged": "/home/element/soft_keyboard/build/intermediates/res/merged/debug/xml/quick_text_unicode_signs.xml",
+        "source": "/home/element/soft_keyboard/src/main/res/xml/quick_text_unicode_signs.xml"
+    },
+    {
+        "merged": "/home/element/soft_keyboard/build/intermediates/res/merged/debug/xml/ext_kbd_bottom_row_iphone_with_mic.xml",
+        "source": "/home/element/soft_keyboard/src/main/res/xml/ext_kbd_bottom_row_iphone_with_mic.xml"
+    },
+    {
+        "merged": "/home/element/soft_keyboard/build/intermediates/res/merged/debug/xml/prefs_addtional_ui_addons_prefs.xml",
+        "source": "/home/element/soft_keyboard/src/main/res/xml/prefs_addtional_ui_addons_prefs.xml"
+    },
+    {
+        "merged": "/home/element/soft_keyboard/build/intermediates/res/merged/debug/xml/quick_text_list_popup.xml",
+        "source": "/home/element/soft_keyboard/src/main/res/xml/quick_text_list_popup.xml"
+    },
+    {
+        "merged": "/home/element/soft_keyboard/build/intermediates/res/merged/debug/xml/prefs_next_word.xml",
+        "source": "/home/element/soft_keyboard/src/main/res/xml/prefs_next_word.xml"
+    },
+    {
+        "merged": "/home/element/soft_keyboard/build/intermediates/res/merged/debug/xml/prefs_keyboard_theme_tweaks.xml",
+        "source": "/home/element/soft_keyboard/src/main/res/xml/prefs_keyboard_theme_tweaks.xml"
+    },
+    {
+        "merged": "/home/element/soft_keyboard/build/intermediates/res/merged/debug/xml/quick_text_unicode_city.xml",
+        "source": "/home/element/soft_keyboard/src/main/res/xml/quick_text_unicode_city.xml"
+    },
+    {
+        "merged": "/home/element/soft_keyboard/build/intermediates/res/merged/debug/xml/ext_kbd_bottom_row_regular_with_voice.xml",
+        "source": "/home/element/soft_keyboard/src/main/res/xml/ext_kbd_bottom_row_regular_with_voice.xml"
+    },
+    {
+        "merged": "/home/element/soft_keyboard/build/intermediates/res/merged/debug/xml/dictionaries.xml",
+        "source": "/home/element/soft_keyboard/src/main/res/xml/dictionaries.xml"
+    },
+    {
+        "merged": "/home/element/soft_keyboard/build/intermediates/res/merged/debug/xml/eng_16keys.xml",
+        "source": "/home/element/soft_keyboard/src/main/res/xml/eng_16keys.xml"
+    },
+    {
+        "merged": "/home/element/soft_keyboard/build/intermediates/res/merged/debug/xml/keyboard_themes.xml",
+        "source": "/home/element/soft_keyboard/src/main/res/xml/keyboard_themes.xml"
+    },
+    {
+        "merged": "/home/element/soft_keyboard/build/intermediates/res/merged/debug/xml/prefs_effects_prefs.xml",
+        "source": "/home/element/soft_keyboard/src/main/res/xml/prefs_effects_prefs.xml"
+    },
+    {
+        "merged": "/home/element/soft_keyboard/build/intermediates/res/merged/debug/xml/ext_kbd_ext_keyboard_numbers_symbols.xml",
+        "source": "/home/element/soft_keyboard/src/main/res/xml/ext_kbd_ext_keyboard_numbers_symbols.xml"
+    },
+    {
+        "merged": "/home/element/soft_keyboard/build/intermediates/res/merged/debug/xml/symbols.xml",
+        "source": "/home/element/soft_keyboard/src/main/res/xml/symbols.xml"
+    },
+    {
+        "merged": "/home/element/soft_keyboard/build/intermediates/res/merged/debug/xml/ext_kbd_bottom_row_ng.xml",
+        "source": "/home/element/soft_keyboard/src/main/res/xml/ext_kbd_bottom_row_ng.xml"
+    },
+    {
+        "merged": "/home/element/soft_keyboard/build/intermediates/res/merged/debug/xml/popup_qwerty_u.xml",
+        "source": "/home/element/soft_keyboard/src/main/res/xml/popup_qwerty_u.xml"
+    },
+    {
+        "merged": "/home/element/soft_keyboard/build/intermediates/res/merged/debug/xml/spell_checker_settings.xml",
+        "source": "/home/element/soft_keyboard/src/main/res/xml/spell_checker_settings.xml"
+    },
+    {
+        "merged": "/home/element/soft_keyboard/build/intermediates/res/merged/debug/xml/prefs_top_row_addons.xml",
+        "source": "/home/element/soft_keyboard/src/main/res/xml/prefs_top_row_addons.xml"
+    },
+    {
+        "merged": "/home/element/soft_keyboard/build/intermediates/res/merged/debug/xml/physical.xml",
+        "source": "/home/element/soft_keyboard/src/main/res/xml/physical.xml"
+    },
+    {
+        "merged": "/home/element/soft_keyboard/build/intermediates/res/merged/debug/xml/ext_kbd_top_row_numbers.xml",
+        "source": "/home/element/soft_keyboard/src/main/res/xml/ext_kbd_top_row_numbers.xml"
+    },
+    {
+        "merged": "/home/element/soft_keyboard/build/intermediates/res/merged/debug/xml/popup_16keys_tuv.xml",
+        "source": "/home/element/soft_keyboard/src/main/res/xml/popup_16keys_tuv.xml"
+    },
+    {
+        "merged": "/home/element/soft_keyboard/build/intermediates/res/merged/debug/xml/quick_text_unicode_activity.xml",
+        "source": "/home/element/soft_keyboard/src/main/res/xml/quick_text_unicode_activity.xml"
+    },
+    {
+        "merged": "/home/element/soft_keyboard/build/intermediates/res/merged/debug/xml/ext_kbd_bottom_row_alt.xml",
+        "source": "/home/element/soft_keyboard/src/main/res/xml/ext_kbd_bottom_row_alt.xml"
+    },
+    {
+        "merged": "/home/element/soft_keyboard/build/intermediates/res/merged/debug/xml/quick_text_unicode_emoticons.xml",
+        "source": "/home/element/soft_keyboard/src/main/res/xml/quick_text_unicode_emoticons.xml"
+    },
+    {
+        "merged": "/home/element/soft_keyboard/build/intermediates/res/merged/debug/xml/popup_domains.xml",
+        "source": "/home/element/soft_keyboard/src/main/res/xml/popup_domains.xml"
+    },
+    {
+        "merged": "/home/element/soft_keyboard/build/intermediates/res/merged/debug/xml/ext_kbd_utility_utility.xml",
+        "source": "/home/element/soft_keyboard/src/main/res/xml/ext_kbd_utility_utility.xml"
+    },
+    {
+        "merged": "/home/element/soft_keyboard/build/intermediates/res/merged/debug/xml/quick_text_unicode_office.xml",
+        "source": "/home/element/soft_keyboard/src/main/res/xml/quick_text_unicode_office.xml"
+    },
+    {
+        "merged": "/home/element/soft_keyboard/build/intermediates/res/merged/debug/xml/quick_text_unicode_gestures.xml",
+        "source": "/home/element/soft_keyboard/src/main/res/xml/quick_text_unicode_gestures.xml"
+    }
+]

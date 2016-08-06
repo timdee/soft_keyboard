@@ -1,0 +1,178 @@
+[
+    {
+        "merged": "/home/element/soft_keyboard/build/intermediates/res/merged/debug/anim/ui_context_root_add_out.xml",
+        "source": "/home/element/soft_keyboard/build/intermediates/exploded-aar/com.github.menny.Chauffeur/lib/37ea0668afc7a63c6ea36f318741fb291fb2a20c/res/anim/ui_context_root_add_out.xml"
+    },
+    {
+        "merged": "/home/element/soft_keyboard/build/intermediates/res/merged/debug/anim/slide_out_right.xml",
+        "source": "/home/element/soft_keyboard/src/main/res/anim/slide_out_right.xml"
+    },
+    {
+        "merged": "/home/element/soft_keyboard/build/intermediates/res/merged/debug/anim/ui_context_root_pop_in.xml",
+        "source": "/home/element/soft_keyboard/build/intermediates/exploded-aar/com.github.menny.Chauffeur/lib/37ea0668afc7a63c6ea36f318741fb291fb2a20c/res/anim/ui_context_root_pop_in.xml"
+    },
+    {
+        "merged": "/home/element/soft_keyboard/build/intermediates/res/merged/debug/anim/abc_grow_fade_in_from_bottom.xml",
+        "source": "/home/element/soft_keyboard/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/anim/abc_grow_fade_in_from_bottom.xml"
+    },
+    {
+        "merged": "/home/element/soft_keyboard/build/intermediates/res/merged/debug/anim/slide_out_left.xml",
+        "source": "/home/element/soft_keyboard/src/main/res/anim/slide_out_left.xml"
+    },
+    {
+        "merged": "/home/element/soft_keyboard/build/intermediates/res/merged/debug/anim/ui_experience_on_top_pop_out.xml",
+        "source": "/home/element/soft_keyboard/build/intermediates/exploded-aar/com.github.menny.Chauffeur/lib/37ea0668afc7a63c6ea36f318741fb291fb2a20c/res/anim/ui_experience_on_top_pop_out.xml"
+    },
+    {
+        "merged": "/home/element/soft_keyboard/build/intermediates/res/merged/debug/anim/ui_experience_on_top_add_in.xml",
+        "source": "/home/element/soft_keyboard/build/intermediates/exploded-aar/com.github.menny.Chauffeur/lib/37ea0668afc7a63c6ea36f318741fb291fb2a20c/res/anim/ui_experience_on_top_add_in.xml"
+    },
+    {
+        "merged": "/home/element/soft_keyboard/build/intermediates/res/merged/debug/anim/mini_keyboard_fadeout.xml",
+        "source": "/home/element/soft_keyboard/src/main/res/anim/mini_keyboard_fadeout.xml"
+    },
+    {
+        "merged": "/home/element/soft_keyboard/build/intermediates/res/merged/debug/anim/ui_context_root_pop_out.xml",
+        "source": "/home/element/soft_keyboard/build/intermediates/exploded-aar/com.github.menny.Chauffeur/lib/37ea0668afc7a63c6ea36f318741fb291fb2a20c/res/anim/ui_context_root_pop_out.xml"
+    },
+    {
+        "merged": "/home/element/soft_keyboard/build/intermediates/res/merged/debug/anim/ui_experience_dialog_pop_out.xml",
+        "source": "/home/element/soft_keyboard/build/intermediates/exploded-aar/com.github.menny.Chauffeur/lib/37ea0668afc7a63c6ea36f318741fb291fb2a20c/res/anim/ui_experience_dialog_pop_out.xml"
+    },
+    {
+        "merged": "/home/element/soft_keyboard/build/intermediates/res/merged/debug/anim/slide_in_right.xml",
+        "source": "/home/element/soft_keyboard/src/main/res/anim/slide_in_right.xml"
+    },
+    {
+        "merged": "/home/element/soft_keyboard/build/intermediates/res/merged/debug/anim/layout_switch_slide_in_left.xml",
+        "source": "/home/element/soft_keyboard/src/main/res/anim/layout_switch_slide_in_left.xml"
+    },
+    {
+        "merged": "/home/element/soft_keyboard/build/intermediates/res/merged/debug/anim/layout_switch_fadeout.xml",
+        "source": "/home/element/soft_keyboard/src/main/res/anim/layout_switch_fadeout.xml"
+    },
+    {
+        "merged": "/home/element/soft_keyboard/build/intermediates/res/merged/debug/anim/close_candidates_hint_in.xml",
+        "source": "/home/element/soft_keyboard/src/main/res/anim/close_candidates_hint_in.xml"
+    },
+    {
+        "merged": "/home/element/soft_keyboard/build/intermediates/res/merged/debug/anim/ui_experience_dialog_add_in.xml",
+        "source": "/home/element/soft_keyboard/build/intermediates/exploded-aar/com.github.menny.Chauffeur/lib/37ea0668afc7a63c6ea36f318741fb291fb2a20c/res/anim/ui_experience_dialog_add_in.xml"
+    },
+    {
+        "merged": "/home/element/soft_keyboard/build/intermediates/res/merged/debug/anim/layout_switch_fadein.xml",
+        "source": "/home/element/soft_keyboard/src/main/res/anim/layout_switch_fadein.xml"
+    },
+    {
+        "merged": "/home/element/soft_keyboard/build/intermediates/res/merged/debug/anim/abc_slide_in_bottom.xml",
+        "source": "/home/element/soft_keyboard/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/anim/abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "/home/element/soft_keyboard/build/intermediates/res/merged/debug/anim/key_preview_in.xml",
+        "source": "/home/element/soft_keyboard/src/main/res/anim/key_preview_in.xml"
+    },
+    {
+        "merged": "/home/element/soft_keyboard/build/intermediates/res/merged/debug/anim/mini_keyboard_flip_in.xml",
+        "source": "/home/element/soft_keyboard/src/main/res/anim/mini_keyboard_flip_in.xml"
+    },
+    {
+        "merged": "/home/element/soft_keyboard/build/intermediates/res/merged/debug/anim/input_method_fancy_exit.xml",
+        "source": "/home/element/soft_keyboard/src/main/res/anim/input_method_fancy_exit.xml"
+    },
+    {
+        "merged": "/home/element/soft_keyboard/build/intermediates/res/merged/debug/anim/ui_context_deeper_pop_in.xml",
+        "source": "/home/element/soft_keyboard/build/intermediates/exploded-aar/com.github.menny.Chauffeur/lib/37ea0668afc7a63c6ea36f318741fb291fb2a20c/res/anim/ui_context_deeper_pop_in.xml"
+    },
+    {
+        "merged": "/home/element/soft_keyboard/build/intermediates/res/merged/debug/anim/abc_slide_out_top.xml",
+        "source": "/home/element/soft_keyboard/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/anim/abc_slide_out_top.xml"
+    },
+    {
+        "merged": "/home/element/soft_keyboard/build/intermediates/res/merged/debug/anim/extension_keyboard_fadeout.xml",
+        "source": "/home/element/soft_keyboard/src/main/res/anim/extension_keyboard_fadeout.xml"
+    },
+    {
+        "merged": "/home/element/soft_keyboard/build/intermediates/res/merged/debug/anim/layout_switch_slide_out_right.xml",
+        "source": "/home/element/soft_keyboard/src/main/res/anim/layout_switch_slide_out_right.xml"
+    },
+    {
+        "merged": "/home/element/soft_keyboard/build/intermediates/res/merged/debug/anim/layout_switch_slide_in_right.xml",
+        "source": "/home/element/soft_keyboard/src/main/res/anim/layout_switch_slide_in_right.xml"
+    },
+    {
+        "merged": "/home/element/soft_keyboard/build/intermediates/res/merged/debug/anim/abc_popup_enter.xml",
+        "source": "/home/element/soft_keyboard/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/anim/abc_popup_enter.xml"
+    },
+    {
+        "merged": "/home/element/soft_keyboard/build/intermediates/res/merged/debug/anim/layout_switch_slide_out_left.xml",
+        "source": "/home/element/soft_keyboard/src/main/res/anim/layout_switch_slide_out_left.xml"
+    },
+    {
+        "merged": "/home/element/soft_keyboard/build/intermediates/res/merged/debug/anim/abc_slide_in_top.xml",
+        "source": "/home/element/soft_keyboard/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/anim/abc_slide_in_top.xml"
+    },
+    {
+        "merged": "/home/element/soft_keyboard/build/intermediates/res/merged/debug/anim/candidates_up_to_bottom_exit.xml",
+        "source": "/home/element/soft_keyboard/src/main/res/anim/candidates_up_to_bottom_exit.xml"
+    },
+    {
+        "merged": "/home/element/soft_keyboard/build/intermediates/res/merged/debug/anim/input_method_fancy_enter.xml",
+        "source": "/home/element/soft_keyboard/src/main/res/anim/input_method_fancy_enter.xml"
+    },
+    {
+        "merged": "/home/element/soft_keyboard/build/intermediates/res/merged/debug/anim/abc_fade_in.xml",
+        "source": "/home/element/soft_keyboard/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/anim/abc_fade_in.xml"
+    },
+    {
+        "merged": "/home/element/soft_keyboard/build/intermediates/res/merged/debug/anim/close_candidates_hint_out.xml",
+        "source": "/home/element/soft_keyboard/src/main/res/anim/close_candidates_hint_out.xml"
+    },
+    {
+        "merged": "/home/element/soft_keyboard/build/intermediates/res/merged/debug/anim/slide_in_left.xml",
+        "source": "/home/element/soft_keyboard/src/main/res/anim/slide_in_left.xml"
+    },
+    {
+        "merged": "/home/element/soft_keyboard/build/intermediates/res/merged/debug/anim/ui_context_deeper_pop_out.xml",
+        "source": "/home/element/soft_keyboard/build/intermediates/exploded-aar/com.github.menny.Chauffeur/lib/37ea0668afc7a63c6ea36f318741fb291fb2a20c/res/anim/ui_context_deeper_pop_out.xml"
+    },
+    {
+        "merged": "/home/element/soft_keyboard/build/intermediates/res/merged/debug/anim/key_preview_out.xml",
+        "source": "/home/element/soft_keyboard/src/main/res/anim/key_preview_out.xml"
+    },
+    {
+        "merged": "/home/element/soft_keyboard/build/intermediates/res/merged/debug/anim/ui_context_deeper_add_in.xml",
+        "source": "/home/element/soft_keyboard/build/intermediates/exploded-aar/com.github.menny.Chauffeur/lib/37ea0668afc7a63c6ea36f318741fb291fb2a20c/res/anim/ui_context_deeper_add_in.xml"
+    },
+    {
+        "merged": "/home/element/soft_keyboard/build/intermediates/res/merged/debug/anim/ui_context_root_add_in.xml",
+        "source": "/home/element/soft_keyboard/build/intermediates/exploded-aar/com.github.menny.Chauffeur/lib/37ea0668afc7a63c6ea36f318741fb291fb2a20c/res/anim/ui_context_root_add_in.xml"
+    },
+    {
+        "merged": "/home/element/soft_keyboard/build/intermediates/res/merged/debug/anim/abc_slide_out_bottom.xml",
+        "source": "/home/element/soft_keyboard/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/anim/abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "/home/element/soft_keyboard/build/intermediates/res/merged/debug/anim/abc_shrink_fade_out_from_bottom.xml",
+        "source": "/home/element/soft_keyboard/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/anim/abc_shrink_fade_out_from_bottom.xml"
+    },
+    {
+        "merged": "/home/element/soft_keyboard/build/intermediates/res/merged/debug/anim/abc_fade_out.xml",
+        "source": "/home/element/soft_keyboard/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/anim/abc_fade_out.xml"
+    },
+    {
+        "merged": "/home/element/soft_keyboard/build/intermediates/res/merged/debug/anim/abc_popup_exit.xml",
+        "source": "/home/element/soft_keyboard/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/anim/abc_popup_exit.xml"
+    },
+    {
+        "merged": "/home/element/soft_keyboard/build/intermediates/res/merged/debug/anim/ui_context_deeper_add_out.xml",
+        "source": "/home/element/soft_keyboard/build/intermediates/exploded-aar/com.github.menny.Chauffeur/lib/37ea0668afc7a63c6ea36f318741fb291fb2a20c/res/anim/ui_context_deeper_add_out.xml"
+    },
+    {
+        "merged": "/home/element/soft_keyboard/build/intermediates/res/merged/debug/anim/candidates_bottom_to_up_enter.xml",
+        "source": "/home/element/soft_keyboard/src/main/res/anim/candidates_bottom_to_up_enter.xml"
+    },
+    {
+        "merged": "/home/element/soft_keyboard/build/intermediates/res/merged/debug/anim/extension_keyboard_fadein.xml",
+        "source": "/home/element/soft_keyboard/src/main/res/anim/extension_keyboard_fadein.xml"
+    }
+]

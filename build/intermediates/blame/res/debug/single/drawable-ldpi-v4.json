@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/home/element/soft_keyboard/build/intermediates/res/merged/debug/drawable-ldpi-v4/ic_launcher.png",
+        "source": "/home/element/soft_keyboard/src/main/res/drawable-ldpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/element/soft_keyboard/build/intermediates/res/merged/debug/drawable-ldpi-v4/ic_stat_en.png",
+        "source": "/home/element/soft_keyboard/src/main/res/drawable-ldpi/ic_stat_en.png"
+    },
+    {
+        "merged": "/home/element/soft_keyboard/build/intermediates/res/merged/debug/drawable-ldpi-v4/ic_launcher_settings.png",
+        "source": "/home/element/soft_keyboard/src/main/res/drawable-ldpi/ic_launcher_settings.png"
+    }
+]
