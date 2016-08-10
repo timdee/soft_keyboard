@@ -1637,9 +1637,16 @@ public abstract class AnySoftKeyboard extends AnySoftKeyboardKeyboardSwitchedLis
          */
         pressureDatalist.add(AskV8GestureDetector.pValue);
 
-        // submit the MotionEvent
+        // populate touch data from available information
+        int keycode = key.getPrimaryCode();
+        //TODO verify that this is actually the pressure value
+        double pressure = AskV8GestureDetector.pValue;
+        long timestamp = SystemClock.uptimeMillis();
+        Touch touch = new Touch(keycode, pressure, timestamp);
+
+        // submit the Touch data
         //TODO find a way to get the MotionEvent from the previous key press
-        keyboard_authentication.submit_data(motion_event);
+        keyboard_authentication.submit_data(touch);
 
         /**
          * I have made a modification here,
