@@ -111,6 +111,7 @@ import java.util.List;
 import components.Distribution;
 import components.Touch;
 import wrapper.KeyboardAuthentication;
+
 //import components.Chain;
 
 /**
@@ -252,7 +253,10 @@ public abstract class AnySoftKeyboard extends AnySoftKeyboardKeyboardSwitchedLis
         /**
          * isu_research
          */
-        keyboard_authentication = new KeyboardAuthentication(getApplicationContext());
+        //TODO this cannot be done in the constructor because the context has not been created yet.
+        //TODO move this somwehere where the context exists
+        //keyboard_authentication = new KeyboardAuthentication(getApplicationContext());
+        keyboard_authentication = null;
     }
 
     //TODO SHOULD NOT USE THIS METHOD AT ALL!
@@ -1644,9 +1648,15 @@ public abstract class AnySoftKeyboard extends AnySoftKeyboardKeyboardSwitchedLis
         long timestamp = SystemClock.uptimeMillis();
         Touch touch = new Touch(keycode, pressure, timestamp);
 
-        // submit the Touch data
-        //TODO find a way to get the MotionEvent from the previous key press
-        keyboard_authentication.submit_data(touch);
+        // if keyboard authentication service has not yet been bound, bind it
+        if(keyboard_authentication == null) {
+            keyboard_authentication = new KeyboardAuthentication(getApplicationContext());
+        }
+
+        // submit the Touch data, if bind was successful
+        if(keyboard_authentication != null) {
+            keyboard_authentication.submit_data(touch);
+        }
 
         /**
          * I have made a modification here,

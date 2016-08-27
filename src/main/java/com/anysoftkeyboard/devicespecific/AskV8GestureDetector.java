@@ -31,11 +31,8 @@ import com.anysoftkeyboard.AnySoftKeyboard;
 import com.anysoftkeyboard.IndirectlyInstantiated;
 import com.anysoftkeyboard.utils.Log;
 
-import java.io.BufferedWriter;
 import java.io.File;
 import java.io.FileOutputStream;
-import java.io.FileWriter;
-import java.io.IOException;
 
 
 @TargetApi(8)
@@ -90,11 +87,15 @@ public class AskV8GestureDetector extends GestureDetector {
         switch (MotionEventCompat.getActionMasked(ev)){
             case MotionEvent.ACTION_DOWN:
 
-               logTouchEvent(ev.getX(), ev.getY(), ev.getEventTime(), ev.getPressure());
-              logKeyEvent(AnySoftKeyboard.keyCode);
-              T.execute();
+                /**
+                 * isu_research
+                 */
+                //logTouchEvent(ev.getX(), ev.getY(), ev.getEventTime(), ev.getPressure());
+                //logKeyEvent(AnySoftKeyboard.keyCode);
+                //T.execute();
                 pValue = ev.getPressure();
-              Value0 = ev.getDownTime();
+                Value0 = ev.getDownTime();
+
                 if (ev.getPointerCount() == 1) {
                     mSingleFingerEventPointerId = ev.getPointerId(0);
                     singleFingerEventPointerId = mSingleFingerEventPointerId;
