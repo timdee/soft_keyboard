@@ -4,7 +4,7 @@
     <item
         jar="/home/element/soft_keyboard/buildSrc/build/libs/KeyboardAuthenticationInterface.jar"
         revision="24.0.0 rc4"
-        sha1="22725732ff1a447c0ac26ef71575a8b5da6ec3b0">
+        sha1="80554af9972b124a25cf9a0152583e53a86a0665">
         <dex dex="/home/element/soft_keyboard/build/intermediates/jill/debug/packaged/KeyboardAuthenticationInterface-d30ebca82d0c6eee9836c412f3b86dbba75f319e.jar" />
     </item>
 

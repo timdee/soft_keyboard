@@ -1,6 +1,6 @@
 -- Merging decision tree log ---
 manifest
-ADDED from /home/element/soft_keyboard/src/main/AndroidManifest.xml:1:1-122:12
+ADDED from /home/element/soft_keyboard/src/main/AndroidManifest.xml:1:1-131:12
 	xmlns:tools
 		ADDED from /home/element/soft_keyboard/src/main/AndroidManifest.xml:2:11-57
 	xmlns:android
@@ -103,7 +103,7 @@ MERGED from [com.github.menny.Chauffeur:lib:37ea0668afc7a63c6ea36f318741fb291fb2
 	tools:overrideLibrary
 		ADDED from /home/element/soft_keyboard/src/main/AndroidManifest.xml:29:15-71
 application
-ADDED from /home/element/soft_keyboard/src/main/AndroidManifest.xml:32:5-120:19
+ADDED from /home/element/soft_keyboard/src/main/AndroidManifest.xml:32:5-129:19
 MERGED from [com.android.support:support-v4:23.3.0] /home/element/soft_keyboard/build/intermediates/exploded-aar/com.android.support/support-v4/23.3.0/AndroidManifest.xml:22:5-20
 MERGED from [com.github.menny:FrankenRobot:1.1.5] /home/element/soft_keyboard/build/intermediates/exploded-aar/com.github.menny/FrankenRobot/1.1.5/AndroidManifest.xml:11:5-12:19
 MERGED from [com.android.support:appcompat-v7:23.3.0] /home/element/soft_keyboard/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/AndroidManifest.xml:25:5-20
@@ -256,3 +256,15 @@ ADDED from /home/element/soft_keyboard/src/main/AndroidManifest.xml:115:9-119:47
 		ADDED from /home/element/soft_keyboard/src/main/AndroidManifest.xml:117:13-72
 	android:name
 		ADDED from /home/element/soft_keyboard/src/main/AndroidManifest.xml:116:13-81
+service#keyboardAuthenticationInterface.KeyboardAuthenticationService
+ADDED from /home/element/soft_keyboard/src/main/AndroidManifest.xml:122:9-128:19
+	android:exported
+		ADDED from /home/element/soft_keyboard/src/main/AndroidManifest.xml:124:13-38
+	android:name
+		ADDED from /home/element/soft_keyboard/src/main/AndroidManifest.xml:123:13-91
+intent-filter#keyboardAuthenticationInterface.KeyboardAuthenticationService
+ADDED from /home/element/soft_keyboard/src/main/AndroidManifest.xml:125:13-127:29
+action#keyboardAuthenticationInterface.KeyboardAuthenticationService
+ADDED from /home/element/soft_keyboard/src/main/AndroidManifest.xml:126:17-104
+	android:name
+		ADDED from /home/element/soft_keyboard/src/main/AndroidManifest.xml:126:25-101
